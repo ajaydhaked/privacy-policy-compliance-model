@@ -1,0 +1,229 @@
+MENU
+PRIVACY POLICY
+Privacy Policy
+We at T.V. TODAY NETWORK LIMITED (Company, we, our, us)respect your privacy and are committed to protecting your
+personal data. In this privacy policy, we explain how we collect,use and process your personal information when you
+accessour Services.Unless indicated otherwise, this privacy policy applies to Company’s website(s) and all of our mobile
+applications that have been made available on the Websites or for download (each, an App and together, Apps)as well as
+any related websites or other online properties owned or controlled by Company (together with the Websites and Apps, the
+Platforms). Services mean to include all the content, information, and related made available to you "as is" from our
+Platforms.
+If you have any questions about your privacy on our website, or our use of your personal data, please contact us. Please
+note that links from our website may take you to external websites which are not covered by this policy. We recommend
+that you check their privacy policies before submitting any personal information to such sites. We will not be
+responsible for the content, function or information collection policies of these external websites.
+1. WHAT INFORMATION DO WE COLLECT ABOUT YOU AND HOW DO WE COLLECT IT?
+1.1 We will only require you to provide personal information to us where it is necessary for us to provide you with a
+service at your request, such as when you contact us, register an account on our website. Certain identifiers will be
+collected by us automatically, and some identifiers will have to be fed by you directly. We are enumerating the list as
+the following.
+1.1.1. INFORMATION COLLECTED BY US:
+We may collect personal information about you whenever you use our services, such as by doing the following, some of the
+following categories of information are collected directly by us, and some are provided by you directly for the
+performance of certain functions:
+• Accessing our Platforms by means of any web browser or device;
+• Enquiring about our products or services;
+• Purchasing our subscription packages on the Platforms;
+• Registration for our Services on our Platforms;
+• Initiating and maintaining correspondence with us.
+1.1.2. THIS INFORMATION MAY INCLUDE THE FOLLOWING:
+• Identification information such as user name, date of birth, gender, profile picture, qualification;
+• Contact information such as email address, mobile number;
+• Payment information (this is securely collected and processed by our payment service provider exclusively);
+• A device identifier (cookie or IP address or Device ID or Android Advertiser ID / iDFA ID);
+• Additional information relevant to your use of our Platformsand Services, such as one time password sent for
+registration, your marketing preferences,
+SURVEY RESPONSES AND FEEDBACK;
+We may be liable to collect certain sensitive personal information, in the process of the delivery of our Services. We
+take extra precautions to ensure that such sensitive personal data is kept secure and confidential, and we will only
+retain this data for as long as necessary for the purposes for which we collect it.
+1.1.3. INFORMATION WE COLLECT ABOUT YOU FROM OUR PLATFORMS
+We collect information using cookies and other similar technologies to help distinguish you from other users of our
+Platforms. This is used to streamline your online experience by saving you from re-inputting some information and it
+also allows us to make improvements to our Platformsand analyze user statistics. For more information about how and why
+we use cookies, please take a look through our Cookie Policy .
+WHEN YOU VISIT OUR PLATFORMS, WE MAY COLLECT THE FOLLOWING INFORMATION:
+• Which pages you access, view and which links you follow;
+• Your IP address/ device's serial number or unique identification number and general location, including country,
+address and pin code;
+• Details of the hardware and software that you are using to access the Platforms such as your computer/device name,your
+operating system, browser type and version, application version, operator name, screen size, CPU speed, and connection
+speed;
+• Any passwords that you use on our Platforms;
+• URL and time stamps;
+• Details of your visits to our Platformsand the resources that you access, including, but not limited to, traffic data,
+location data, web logs and other communication data.
+1.2. INFORMATION WE COLLECT ABOUT YOU FROM OTHER SOURCES.
+We may collect information about you from other sources. This may include the following:
+• Publicly available information.
+• Information you have shared publicly, including on social media.
+• We also receive information from you when you interact with our pages, Apps, groups, accounts or posts on social media
+platforms.
+This list is not exhaustive, and, in specific instances, we may need to collect additional data for the purposes set out
+in this policy.
+1.3. INFORMATION WE RECEIVE ABOUT YOU FROM OTHER SOURCES
+Sometimes you will have given your consent to other websites, services or third parties to provide information to us.
+This could include information we receive about you if you use any of the other Platformsthat we operate or the other
+services that we provide, in which case we will have informed you when we collected that data if we intend to share
+those data internally and combine it with data collected on this website. We will also have told you for what purpose we
+will share and combine your data.
+It could also include information from third parties that we work with to provide our products and services, such as
+payment processors, delivery companies, technical support companies and advertising companies. Whenever we receive
+information about you from these third parties, we will let you know what information we have received and how and why
+we intend to use it.
+We may also use web beacons to compile statistics about site usage.Web beacons are small pieces of code (also called
+pixels) that are embedded on the pages of websites or emails. We do not use web beacons to collect personal identifiable
+information about visitors. We may use these technical methods to deliver our web pages to you upon request, to tailor
+our website/Application or Services to suit the interests of our users, to measure traffic, to improve the quality,
+functionality and interactivity and to let the advertisers know the geographic locations from where our visitors come.
+We may also use web beacons in HTML emails that we send subscribers who have opted in to receive email from us, to
+determine whether our recipients have opened those emails and/or clicked on links in those emails.
+2. HOW AND WHY DO WE USE YOUR PERSONAL INFORMATION?
+We take your right to privacy seriously, and so we have attempted to identify and enumerate the specific use cases of
+the identifiers as below.
+2.1. SUBSCRIPTION OR PAID SERVICE INFORMATION
+When you chose any subscription or paid service, we or our payment gateway provider will not collect your personal
+information such as address or billing information, including your credit/debit card number and expiration date etc.
+without obtaining your explicit consent for the same. Any financial information provided by you will be processed by
+such third parties who provide the functionalities for such Services to us, for effective processing.
+2.2. FOR USER GENERATED CONTENT
+We offer you the ability to post content that other users can read (comments, reviews). If the law requires us to take
+down, remove or edit your personal information, we will comply to the extent that such is necessary.
+3. HOW AND WHY DO WE USE YOUR PERSONAL INFORMATION?
+3.1. Sharing your information with third parties
+We may share your data with selected third parties. For example, we may share your information with:
+• Business partners to provide you with services that you request. For example, if you sign up for a promotion that runs
+on our Services but that is sponsored or co-sponsored by another company, your information may be shared with that
+sponsor. We are not responsible for the privacy practices of these entities.
+• Our payment service provider, to process payments on our behalf. We will share your full name, address, phone number,
+email address and details of your order for this purpose. Our payment provider will collect and process your payment
+details; we will not store or have access to your full credit or debit card details.
+• Contact management systems, to send emails, instant messages, social media messages and SMS messages.
+• The advertisers, content providers may receive information about you and/or your use of the Services (e.g. click
+stream information, browser type, time and date, information about your interactions with advertisements and other
+content), including through the use of cookies, beacons, mobile ad identifiers, and similar technologies, in order to
+provide content, advertising, or functionality or to measure and analyze ad performance, on our Services or Platforms.
+There are certain other exceptional circumstances in which we may disclose your information to third parties. This would
+be where we believe that the disclosure is:
+• Required by the law, or in order to comply with judicial proceedings, court orders or legal or regulatory proceedings.
+• Necessary to protect the safety of our employees, our property or the public.
+• Necessary for the prevention or detection of crime, including exchanging information with other companies or
+organizations for the purposes of fraud protection and credit risk reduction.
+• Proportionate as part of a merger, business or asset sale, in the event that this happens we will share your
+information with the prospective seller or buyer involved.
+4. SINGLE SIGN-ON POLICY
+This Single Sign-on Policy describes the information collected by us when youuse, access, or share your personal
+information when using our services (SSO Login).This Policy shall not apply if you access or use T.V. TODAY NETWORK
+LIMITED Services outside of the European Union (EU).
+This policy covers the information provided to us by you on a third-party site or platform (for example, via our
+applications like social media login). Privacy choices you have made on the third-party site or platform will not apply
+to our use of the information we have collected directly through our applications. If you access the Platforms with any
+third party social network, we will collect information that you have agreed to make available, such as your name, user
+ID/URL, profile picture, age, list of friends, email address and/or phone number, and/or your birthday, language
+selected, and/or geolocation. By agreeing to this Privacy Policy, you represent that you shall not access our services
+by means of any mechanism or technology which conceals your actual geo-location or provides incorrect details of your
+location (for example, use a virtual private network (VPN) to access our services. We shall not be responsible or liable
+for any processing or collection of your information if you use these mechanisms to access our Platformsand services.
+5. HOW LONG DO WE KEEP YOUR PERSONAL INFORMATION?
+We will only store your personal information for as long as we need it for the purposes for which it was collected.Where
+we provide you with any service, such as where you pay for a subscription on our website, we will retain any information
+you provide to us at least for as long as we continue to provide that service to you.
+We retain your information till such period that is required for the purposes of us meeting your requests on our
+Platforms, and in compliance with the applicable laws, statutory requirements.
+6. HOW DO WE PROTECT YOUR PERSONAL INFORMATION?
+We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this
+policy. We try to ensure that all information you provide to us is transferred securely via the website (always check
+for the padlock symbol in your browser, and "https" in the URL, to ensure that your connection is secure).
+All information you provide to us is stored on secure servers. Where we have given you (or where you have chosen) a
+password which enables you to access certain parts of our website, you are responsible for keeping this password
+confidential. We ask you not to share a password with anyone.
+7. WHAT RIGHTS DO YOU HAVE IN RESPECT OF YOUR PERSONAL INFORMATION?
+If you require any further information about your rights as explained below, or if you would like to exercise any of
+your rights, please contact us.
+You have the right to access your personal data
+You have the right to ask us to confirm whether or not we hold any of your personal information. If we do, you have the
+right to have a copy of your information and to be informed of the following:
+• Why we have been using your information.
+• What categories of information we were using.
+• Who we have shared the information with.
+• How long we envisage holding your information.
+In order to maintain the security of your information, we will have to verify your identity before we provide you with a
+copy of the information we hold. The first copy of your information that you request from us will be provided free of
+charge, if you require further copies, we may charge an administrative fee to cover our costs. Please contact us to
+request access to your data.
+You have the right to correct any inaccurate or incomplete personal data.
+If you believe that any of the information, we hold about you is inaccurate, incomplete, or out of date, you have the
+right to require us to rectify that information. You can update or change your personal information in on our website.
+Alternatively, please contact us so that we can correct our records.
+You have the right to be forgotten.
+There may be times where it is no longer necessary for us to hold personal information about you. This could be if:
+• The information is no longer needed for the original purpose that we collected it for
+• You withdraw your consent for us to use the information (and we have no other legal reason to keep using it)
+• You object to us using your information and we have no overriding reason to keep using it
+• We have used your information unlawfully
+• We are subject to a legal requirement to delete your information
+In these situations, you have the right to require us to delete your personal data upon production of an order of a
+competent court of law or any other authority as may be notified in this regard (although please be aware that we may be
+required to retain certain information in order to comply with our legal obligations). If you believe one of these
+situations applies to you, please contact us.
+You have the right to have your data transferred to you or a third party in a common format. Also known as data
+portability, you have the right to require us to transfer your personal information, in a structured, commonly used and
+machine-readable format, either to you or to another service provider.
+If you would like us to do this, please contact is. There is no charge for you exercising this right.
+You have the right to withdraw your consent
+In most cases, we do not require your consent to use your personal information in the ways set out in this policy.
+However, where we do rely on your consent (such as where you subscribe to our newsletter), you have the right to
+withdraw that consent at any time. You can use the “unsubscribe” links in any of the communications that we send you or
+contact us to withdraw your consent.
+8. INTERNATIONAL DATA TRANSFER
+We operate globally and may transfer your personal information to individual companies of the T.V. Today Network Ltd
+affiliated companies or third parties in locations around the world for the purposes described in this privacy policy,
+only upon satisfaction that the country has an adequate and appropriate level of protection and the transfer of
+information is lawful. We shall comply with our legal and regulatory obligations in relation to your Information,
+including having a lawful basis for transferring Personal Information and putting appropriate safeguards in place to
+ensure an adequate level of protection for the Personal Information. We will also ensure that the recipient in such
+alternate country is obliged to protect your Information at a standard of protection comparable to the protection under
+applicable laws. Our lawful basis for such transfer will be either on the basis of content or one of the safeguards
+permissible by laws.
+Additionally, when using or disclosing personal information transferred from the European Union, we use standard
+contractual clauses approved by the European Commission, adopt other means under European Union law for ensuring
+adequate safeguards.
+9. CHANGES TO OUR PRIVACY POLICY
+Any changes we make to our privacy policy in the future will be posted on this page and, where appropriate, notified to
+you by email. Please check back frequently to see any updates or changes to our privacy policy.
+This version was last updated on 28th January, 2022 and historic versions can be obtained by contacting us.
+10. CONTACT US
+The data protection officer (DPO) appointed by T.V. Today Network Limited is Mr. M.N. Nasser Kabir who can be contacted
+at nasser.kabir@aajtak.com
+You can also write to:
+T. V. Today Network Limited
+Registered office address-
+F-26, 1stFloor, Connaught Circus,
+New Delhi-110001.
+The India Today Group
+Experience Our Apps
+Company
+About Us
+Contact us
+Advertise with Us
+Privacy Policy
+Terms & Conditions
+On-Air
+Aaj Tak
+Aaj Tak HD
+India Today
+Good News Today
+On-Stands
+India Today English
+India Today Hindi
+Business Today
+Auto Today
+Cosmopolitan
+Reader's Digest
+Harper's Bazaar
+Brides Today
+On-Ground
+On-Line
+Legacy Digital
+Digital First
+Copyright © Living Media India Limited. For reprint rights: Syndications Today

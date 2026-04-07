@@ -1,0 +1,405 @@
+फोटो
+वीडियो
+शहर चुनें
+ई- पेपर
+साइन इन
+होम
+राज्य
+देश
+एक्सप्लेनर्स
+क्रिकेट
+लाइव स्कोर
+मनोरंजन
+बिजनेस
+करियर
+विदेश
+धर्म
+राशिफल
+ऑटो
+लाइफस्टाइल
+बजट 2026T20 वर्ल्ड कपगैजेट्सट्रेंडिंग खबरेंमिडिल ईस्टप्रीडिक्टरमौसमवीडियोआपके लिए खासवायरलओपिनियनफोटोक्राइम
+Privacy Policy
+Scope: This Policy applies to livemint.com, hindustantimes.com, livehindustan.com, related mobile apps, and HTDSL operated Financial Services/Marketplace experiences embedded within these properties (collectively, the “Platform”).
+1. INTRODUCTION
+HT Digital Streams Limited (hereinafter referred to as “HTDSL”, “We”, “Us”, “Our”), a company incorporated under the laws of India, recognizes the critical importance of protecting the privacy and personal data of every user and visitor who accesses or avails our services (“You, Your”).
+Your privacy is paramount to us, and we deeply value the trust you place in us. We are committed to being fully transparent about the personal data we collect, how we use it, and the measures we take to protect it.
+This Privacy Policy (“Policy”) explains how we collect, receive, store, disclose, share, and use your personal data when you use our Platform or interact with us. It also outlines your rights regarding your personal data and how you can exercise them.
+Please read this Policy carefully. By accessing, browsing, using, or registering on our Platform, you give explicit consent to the processing of your personal data as described herein and agree to be bound by this Policy and our Terms. If you do not agree, please do not access or use the Platform.
+2. WHO WE ARE
+Our roles include:
+(a) Publisher Services: Providing editorial/news content and related digital services (accounts, newsletters, subscriptions, comments/UGC, personalization, events, and promotions).
+(b) Financial Services Intermediary: Acting as an online intermediary connecting You with third party financial institutions, service providers, and intermediaries (“Financial Institutions”) for products such as loans, credit cards, insurance, investment products, and credit information services.
+(c) Operate and manage the digital properties of HT Media Ltd. and its subsidiaries.
+3. DEFINITIONS
+• Data Principal: The individual to whom personal data relates. In this Policy, “You/Your” refers to the Data Principal.
+• Data Fiduciary: A person who determines the purpose and means of processing personal data. HTDSL acts as a Data Fiduciary for the purposes in this Policy.
+• Data Processor: Any person who processes personal data on behalf of a Data Fiduciary (e.g., certain service providers).
+• Personal Data: Any data about an individual who is identifiable by or in relation to such data.
+• Processing: Any automated operation performed on digital personal data, including collection, recording, storage, retrieval, use, disclosure, alignment, combination, restriction, erasure, or destruction.
+4. WHAT INFORMATION DO WE COLLECT AND HOW IT IS COLLECTED?
+To enable and facilitate the provision of Services and to provide You with relevant content and features, HTDSL collects and receives various types of information from and about You, directly and indirectly.
+Types of personal data we may collect include:
+Identity and Contact Data: Name, gender, mobile number, email address, date of birth, location/pincode, postal address where provided.
+Account, Subscription and Transaction Data: Account credentials; subscription tier and status; payment instrument details processed via payment partners; invoices/receipts; preferences; interactions with newsletters, alerts, saved articles, and purchases.
+Financial and Product Application Data (Financial Services): PAN; KYC details; employment details; income range; details related to loan/credit card/insurance/investment applications submitted through the Platform; transaction information related to your use of financial services (e.g., products viewed, applications submitted).
+Credit Information (Financial Services): Credit information report and credit score retrieved from Credit Information Companies (“CICs”) as your authorised representative.
+UGC and Community Data: Comments, likes, bookmarks, survey responses, contest entries, event registrations, feedback, and other information You submit publicly or to us.
+Location Data: Approximate location (derived from IP) or precise location if You grant device permission.
+Technical and Usage Data: Device details (type/OS/browser/app version, unique identifiers), IP address, page/app views, time on page, clickstream data, search queries, referral information, ad interactions, and data collected via cookies and similar technologies (see Clause 9).
+Communication Data: Content and metadata of inquiries/support requests; moderation communications; subscription/account notifications.
+How we collect it:
+• Directly from You: Account creation, subscriptions, surveys, events, comments/UGC, financial applications, customer support.
+• Automatically: Through Your use of the Platform (including cookies/SDKs).
+• From service providers/partners (payments, analytics, advertising, SSO, social platforms): based on your explicit consent given by using this website or registering with us.
+• From Financial Institutions and CICs (Financial Services): to facilitate applications and to retrieve your credit information report/score as your authorised representative.
+• From lawful sources and enrichment partners: We may enrich and verify your records using information lawfully obtained from publicly available sources, trusted partners, and service providers (e.g., validating contact details, inferring broad interest categories, improving address accuracy).
+• From HT Media group companies: We may receive limited account, engagement, and subscription metadata from other HT Media group entities for consistent cross brand experiences and relevant offers, in accordance with their privacy policies.
+ 5. PURPOSE OF PROCESSING YOUR PERSONAL DATA
+We process personal data for specific, explicit, and lawful purposes, including:
+Provide and Facilitate Services: Manage profiles; deliver content/features; manage subscriptions/newsletters/alerts/UGC and moderation; process payments; provide support; verify identity where required; offer, process and facilitate Financial Services (Loans / Credit Cards/ Insurance) by Financial Institutions; retrieve and provide your credit information report/score from CICs as your authorised representative basis your profile; provide analysis/insights or educational content based on your credit information; assess eligibility for services.
+Identify and Present Relevant Financial Product Offers (Financial Services): Analyse your profile, including credit information where applicable, to present products that may be suitable for you.
+Communicate with You: Service messages, confirmations, updates on applications, important notices, and responses to inquiries/support.
+Marketing and Promotions: Based on your legitimate interests and your agreement to the Terms, we may send communications about products and services offered by HTDSL, our affiliates, or third parties. You can opt out at any time (see Clause 8).
+Analytics and Service Improvement: Understand usage and performance, measure/improve content and ads, conduct audience measurement, develop new features/services, and monitor campaign effectiveness.
+Data Enrichment, Personalisation, and Profiling: Enrich data from lawful sources and use profiling to personalise content/recommendations, measure ads/audiences, prevent fraud, and improve Services. Profiling may include creating or updating audience segments (e.g., “business news readers”, “markets newsletter subscribers”).
+Inter Group Cross Selling and Joint Marketing: Subject to your preferences, use your contact information and engagement metadata to present relevant offers from HT Media group companies (e.g., newsletters, subscriptions, events, partner benefits) and run joint campaigns using shared audience segments. You can opt out of cross sell marketing at any time (see Clauses 8 and 17).
+Security and Fraud Prevention: Detect, prevent, and investigate fraudulent, unauthorized, or illegal activity; protect Platform integrity; enforce Terms and policies.
+Legal and Regulatory Compliance: Comply with applicable laws and valid requests; cooperate with law enforcement/regulators; establish, exercise, or defend legal rights.
+Business Operations: Internal administration, accounting, and record keeping; and in connection with a corporate transaction (see Clause 7).
+We will not process Your personal data for purposes other than those specified in this Policy unless you provide fresh consent or as otherwise provided in this Policy and our Terms.
+6. LEGAL BASIS FOR PROCESSING YOUR PERSONAL DATA
+We process Your personal data on the following bases under applicable Indian laws:
+• Performance of a contract (including our Terms of Use and subscription terms) and to take steps at your request prior to entering into a contract (e.g., account creation, subscription management, customer support).
+• Your consent (including the explicit consent you give by using or registering on our Platform; you may withdraw at any time via the contact details in this Policy).
+• Compliance with legal obligations and valid legal process.
+• Compliance with judgments or orders (including certain foreign civil/contractual orders as applicable).
+• Vital interests/safety (e.g., medical emergencies, immediate threats to life/health).
+• Public interest/safety during disasters or breakdowns of public order.
+• Legitimate interests such as security, fraud prevention, and improving our services (balanced against Your rights).
+7. SHARING AND DISCLOSURE OF YOUR PERSONAL DATA
+We may share personal data with:
+Service Providers/Partners: Payments, support, hosting/CDNs, analytics, security/anti fraud, advertising/measurement, SSO/social login, notifications/email delivery—under our instructions and appropriate safeguards.
+Affiliates and business associates (: Limited data (e.g., contact details, subscription status, engagement/campaign metadata, audience segment tags) within the HT Media group for operations, personalisation, inter group cross selling, and joint marketing. We do not share payment card numbers or sensitive authentication data for cross sell purposes.
+Data Enrichment and Measurement Partners: we may share or receive hashes, identifiers, or segment tags to enrich, verify, or measure audience data and the effectiveness of our content and advertising.
+Third Parties for Content/Ads/Functionality to provide content, ads, functionality, and measurement.
+Financial Institutions (Financial Services): To process applications for products or services you choose or express interest in, and to enable otherwise eligibility assessment and processing.
+Credit Information Companies (CICs) (Financial Services): To retrieve your credit report/score with your explicit consent and as your authorised representative.
+Authorities/Legal Processes: Where required by law or in response to valid legal process.
+Corporate Transactions: In connection with mergers, acquisitions, financing, sale of assets, or similar events.
+Protection of Rights/Safety: To investigate/prevent potential violations, suspected fraud, or threats to safety.
+We do not allow third parties to use your personal data from our Services to train, fine tune, or improve general purpose AI/ML systems without a written licence and applicable consents.
+We do not sell your personal data.
+8. YOUR RIGHTS
+Subject to applicable Indian laws, You may have the right to: access information about processing; request correction of inaccurate/incomplete data; request erasure where no longer necessary or upon withdrawal of consent; seek grievance redressal; nominate another individual to exercise certain rights (where provided by law); and withdraw consent at any time.
+You may opt out of (i) inter group cross sell marketing, (ii) personalised advertising based on profiling, and (iii) data enrichment used for direct marketing. Use unsubscribe links in emails, adjust cookie/ad settings where offered, or write to us (see Clause 17). Your core access to editorial content will remain unaffected, but certain personalised features may be limited.
+9. COOKIES AND SIMILAR TECHNOLOGIES
+We use cookies and similar technologies (web beacons, pixels, tags, SDKs) for: Necessary (core functionality), Analytical/Performance (audience measurement/performance), Functionality (preferences/personalization), and Advertising/Targeting (ad selection/delivery/reporting, frequency capping, measuring effectiveness; may be set by us or third party networks).
+Advertising/Targeting tools may be used to create, join, or refine audience segments and may be combined with lawfully obtained enrichment data to make ads and recommendations more relevant to you. By using or registering on our Platform, you give explicit consent for these tools to operate as described, subject to your settings and any on site controls (e.g., banners or preference centres). Disabling certain cookies may affect functionality.
+10. DATA SECURITY
+We implement reasonable technical, administrative, and physical safeguards to protect personal data against unauthorized access, use, disclosure, alteration, and destruction. No method of transmission or storage is fully secure. Please safeguard Your credentials and devices.
+11. DATA RETENTION
+We retain personal data only as long as necessary for the purposes in this Policy or as required by law. When no longer needed, we securely delete, destroy, or anonymize it per law and internal policies. If You delete Your account or unsubscribe, we act per legal requirements and our retention schedules.
+Credit Information (Financial Services): On withdrawal of your consent, we will promptly destroy, purge, and erase such Credit Information.
+12. DATA TRANSFER
+Your personal data will be stored on servers located in India. We do not transfer personal data outside India unless strictly necessary for service provision. In such cases, we ensure appropriate safeguards and a level of protection comparable to Indian standards. Where data is processed outside India, the same shall be deleted from servers outside India and brought back to India within 24 hours of processing.
+13. LINKS TO THIRD PARTY WEBSITES/SERVICES
+Our Platform may link to third party websites, financial institutions, and services not operated by us. Their privacy practices/content are not under our control. Review their privacy policies before providing personal data. When You access third party services through our Platform, their terms and privacy policies govern your interactions.
+14. CHILDREN’S PRIVACY
+Our Platform and Services are not intended for individuals under 18 (or the age of legal majority in Your jurisdiction). We do not knowingly collect personal data from children without verifiable parental consent. If You believe that we may have collected information from a child, please contact us (Clause 16).
+15. CHANGES TO THIS PRIVACY POLICY
+We may update this Policy to reflect changes in practices, technologies, legal requirements, or other factors. Continued use of the Platform constitutes acceptance.
+16. GRIEVANCE REDRESSAL MECHANISM
+HTDSL has established a Grievance Redressal Mechanism.
+ For Editorial/General (Livemint & Hindustan Times):Grievance Officer: Mr.Binoy Prabhakar
+Address: HT Digital Streams Limited, 5th Floor, Lotus Tower, A Block, Community Centre, New Friends Colony, New Delhi – 110025
+Phone: + 91 11 66561123
+Email:grievance@htdigital.in
+Timings: 9am–5pm, Monday–Friday (excluding public holidays)
+ For Financial Services (Marketplace/Credit/Loans/Insurance/Investments):
+Grievance Officer: Mr. Neelabh Vikram Mall
+Address: HT Digital Streams Limited, 5th Floor, Lotus Tower, A Block, Community Centre, New Friends Colony, New Delhi – 110025
+Phone: 0124 411 7763
+Email:grievance.fs@htdigital.in
+Timings: 9am–5pm, Monday–Friday (excluding public holidays)
+ We will acknowledge Your grievance within 24 hours and endeavour to resolve it within 15 days of receipt.
+17. WITHDRAWAL OF CONSENT
+You may withdraw consent by writing to us.
+Financial Services: info.fs@htdigital.in
+Livemint: privacy@livemint.com
+Hindustan Times: privacy@hindustantimes.com
+Postal Address: As above.
+To specifically opt out of data enrichment for direct marketing, personalised advertising/profiling, or inter group cross sell marketing, please specify your preference when you contact us. We will record and honour your preferences within a reasonable time and update them as soon as reasonably practical.
+18. CONTACT US
+Phone: 0124 4118763 (9am–5pm, Monday–Friday, excluding public holidays)
+Email: privacy@livemint.com / privacy@hindustantimes.com / info.fs@htdigital.in
+Postal: HT Digital Streams Limited, 5th Floor, Lotus Tower, A Block, Community Centre, New Friends Colony, New Delhi – 110025
+19. LODGING A COMPLAINT WITH THE APPROPRIATE AUTHORITY
+If You believe Your personal data has been processed in a manner not compliant with applicable Indian laws, You may lodge a complaint with the appropriate regulatory authority or seek other remedies available under law. This may include the Data Protection Board of India (or its successor), subject to the procedural requirements prescribed from time to time.
+ Privacy Policy for EEA/UK
+We, HT Digital Streams Limited or HTDSL, are licensed to operate and manage the websites of HT Media Limited, including this website and recognizes the importance of maintaining the privacy of every user who visits our website.  We value your privacy and appreciate your trust in us. We are committed to be transparent about the data we collect about you, how it is used and with whom it is shared.
+This Privacy Policy is applicable in the European Economic Area (EEA) and the United Kingdom (UK), and is pursuant to the General Data Protection Regulation (Regulation 2016/679) and the UK GDPR.  It applies when you use/visit our website or any other online service that links or refers to it. It does not govern or apply to information collected or used by HTDSL or its group companies through any other means.
+For the purposes of this Privacy Policy and the processing of personal data processed pursuant to it, HTDSL is a Controller under the applicable law.
+A. DATA WE COLLECT
+We collect and process data when you visit our website, interact with it or register on the website to avail services offered. Please note that these data are not always considered ‘personal data’ under the applicable law.
+Some examples of your personal data collected and/ or processed by the website are-
+Personal contact details such as name, title, addresses, telephone numbers, and personal email addresses
+Date of birth
+Nationality
+Payment Details
+Information about how you use our services and about how you use our website
+These data are either provided by you to us or are collected through your usage of the website and the services offered by it.
+1- Information you provide us-
+We collect information when you browse the website or interact with it, including registration on the website for purposes like subscription or newsletters, open or respond to an email from us (promotional or informational).
+We collect information when you fill forms, post a comment on our website, raise a query/question to us through phone or email, answer questionnaires, participate in surveys or contact us for other reasons.
+We collect information from you when you register with us by linking your social media or third-party accounts. By doing this, you are authorizing them to share with us certain information from such accounts, and authorizing us to collect, store, and use this in accordance with this Privacy Policy.
+2- Information we collect when you use our website-
+During your visit to the website or interaction with it, we collect the following data from such usage or interaction
+We collect information from you using third party tools, browser cookies and web beacons in order to improve user experience.
+We may collect non-personal information about the computer, mobile device, or other device you use to access the service, such as IP address, geo-location information, unique device identifiers, browser type, browser language and other information for the purpose of providing customized information on the browser.
+The website may capture your current location if you choose to enable the same in your browser.
+We collect information about your preferences with respect to the usage of the website, information on the links clicked by you and browsing data like the duration of sessions and searches on the platform.
+Please note that we may use cookies and/ or other similar technologies to collect some of the data listed above, details of which are provided separately in the cookie policy.
+COOKIE POLICY
+A- Our Cookie Policy
+This is the cookie policy, managed by HT Digital Streams Limited.
+In this cookie policy we explain what cookies are, how we use them and how you can manage them for both our site and other websites you might use.
+B- What are Cookies?
+A cookie is a small piece of data (text file) that a website – when visited by a user – asks your browser to store on your device in order to remember information about you, such as your language preference or login information. If you want to know more about cookies, go to https://allaboutcookies.org
+Those cookies are set by us and called first-party cookies. We also use third-party cookies – which are cookies from a domain different than the domain of the website you are visiting – for our advertising and marketing efforts.
+C- How we use cookies?
+We use cookies to make our website work, or work more efficiently. We also use cookies to track what you've done on the site so we can understand what you like and use or don't like and don't use to provide a more enjoyable, customised service and experience, as well as to help us develop and deliver better content, products and services tailored to our customers' interests and needs.
+Our cookies don't hold personal information such as your name. They simply let us find information once you're logged in or help link your browsing information to you and your personal information when you choose to register for a service, white paper or newsletter.
+To do this we sometimes use persistent cookies. We take looking after your personal information seriously – we're always monitoring and improving how we protect it.
+We've put our cookies into the following categories, to make it easier for you to understand why we need them:
+Essential (always on)-
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+Cookies Name
+Cookies objective
+Cookies Nature
+Cookies type
+GA
+Analytics
+Essential
+3rd party
+Comscore cookies
+Analytics
+Essential
+3rd party
+HTFP cookies / Snowplow
+Analytics
+Essential
+1st Party
+DAP
+Analytics
+Essential
+3rd party
+GAM
+Ad
+Essential
+3rd party
+Akamai
+CDN
+Essential
+3rd party
+New relic
+Tech Analytics
+Essential
+3rd party
+HT internal cookies
+Business Logics
+Essential
+1st party
+Razorpay
+Payments
+Essential
+3rd party
+PayU
+Payments
+Essential
+3rd party
+Performance -
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+Cookies Name
+Cookies objective
+Cookies Nature
+Cookies Type
+FB pixel
+Retargeting
+Performance
+3rd party
+Other CDN
+CDN
+Performance
+3rd party
+Webengage
+Analytics
+Performance
+3rd party
+Moengage
+Analytics
+Performance
+3rd party
+Personalization
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less personalized advertising.
+Cookies Name
+Cookies objective
+Cookies Nature
+Cookies Type
+Piano
+Analytics
+Personalized
+3rd party
+Personalized Ad (GAM/other Ad provides)
+Ad
+Personalized
+3rd party
+Direct Ad based cookies (NA)
+Ad
+Personalized
+3rd party
+Pubmatic
+Ad
+Personalized
+3rd party
+RubiCon
+Ad
+Personalized
+3rd party
+APS
+Ad
+Personalized
+3rd party
+Index exchange
+Ad
+Personalized
+3rd party
+Taboola
+Ad
+Personalized
+3rd party
+Disqus
+User interaction
+Personalized
+3rd party
+Zoho
+Create/Update Customer
+Personalized
+3rd party
+D- Controlling your Cookies
+If you change your cookie settings in your browser, your experience with us won't be tracked.
+For more information on how to control cookies, please visit https://allaboutcookies.org
+What Are Caches and Cookies?
+Caches and cookies are like little notes your web browser stores when you visit websites so your browser can remember it the next time you visit those websites again.
+Your browser tends to save these files. Even if they are relatively small, they will accumulate over time. It could cause performance and privacy issues on your browser.
+Clear Cache and Cookies on Google Chrome
+Open Google Chrome.
+Click the menu button ⋮ > More Tools > Clear browsing data.
+On the Clear browsing data window, select which time range you want to clear.
+Put a check beside Cookies and other site data and Cached images and files, and then click Clear data.
+Clear Cache and Cookies on Mozilla Firefox
+Open Mozilla Firefox.
+Click the menu button ☰, then select Settings.
+Select Privacy & Security, scroll to Cookies and Site Data, and then click Clear Data.
+Check both Cookies and Site Data and Cached Web Content, and then click Clear.
+A confirmation box will appear. Click Clear Now to proceed.
+Clear Cache and Cookies on Microsoft Edge
+Open Microsoft Edge.
+Click the menu button … > Settings.
+Under Clear browsing data, click Choose what to clear.
+Tick Cookies and save the website and Cached data and files, and then click Clear.
+ B- PURPOSE OF PROCESSING DATA
+The data we collect and use for the purposes with corresponding legal basis, as given below-
+Purpose of Use
+Legal Basis
+To provide and manage the Services you request: This includes, for example, processing your subscription, sending you electronic newsletters, or enabling you to participate in the features provided by the Services. It also includes providing personalized content and recommendations to you, including by email. Through such features, we are able to bring you information and content tailored to your individual interests and needs.
+Your consent
+To reach you: We may periodically contact you with offers and information about the Services and our affiliates, including in connection with your accounts, online surveys, legal notices, news stories, new features that you are entitled to access, and other important information. You may opt out of receiving commercial email messages from us by following the instructions contained in those email messages.
+Your consent and/ or our legitimate interest
+To customise advertising: We may use your information to facilitate the delivery of targeted ads, promotions, and offers to you, on behalf of ourselves and advertisers, on and off the Services and to Evaluate the effectiveness of the advertising messages we send and adapt them to our clients and prospects
+Your consent and/ or our legitimate interest
+To understand our readers and users: The Services conduct research on our users’ demographics, interests and behaviour based on the information we collect. We do this to better understand and serve our users, and to improve our products and services.
+Our legitimate interest
+To Protect the Rights of the Services and others: We may use your personal information as we believe is necessary or appropriate to protect, enforce, or defend the legal rights, privacy, safety, or property of the Services, its employees or agents, or other users and to comply with applicable law.
+Vital interest of you and other natural persons and/ or our legitimate interest
+To Handle and correct any incidents or errors of the site.
+Our legitimate interest
+For internal audits on data analysis and audience statistics.
+Our legitimate interest
+C- RIGHT TO OBJECT
+You have the right to object to our processing of your Information which is used to send you promotions, special offers, marketing messages, including where we build profiles for such purposes. 
+You may also object to the processing of your Information [including where the processing is profiling] on the basis of our legitimate interest and your objection to such processing.
+D- FAILURE TO PROVIDE INFORMATION
+If you fail to provide certain information when requested, we may not be able to perform the contract we have entered into with you, or we may be prevented from providing certain functions or service which require a particular type of non-essential cookies to function. You hereby accept and agree that we shall not be held liable in any manner whatsoever if we are unable to perform our services or if there is a deficiency in our services to you due to your failure to provide such information.
+E- DATA RETENTION
+We will only retain your Information for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, auditing or reporting requirements. To determine the appropriate retention period for your Information, we consider the amount, nature, and sensitivity of the Information, the potential risk of harm from unauthorised use or disclosure of your Information, the purposes for which we process your Information and whether we can achieve those purposes through other means, and the applicable legal requirements.
+In some circumstances we may anonymise your Information so that it can no longer be associated with you, in which case we may use such Information without a further statement to you.
+F- DATA SHARING
+We may share or disclose your data to the following recipients-
+Logging in Through Social Media Services: If you log into the Services with a social media service or if you connect a social media account with the Services, we may share your information with that social media service. The social media services’ use of the shared information will be governed by the social media services’ privacy policy and your social media account settings. If you do not want your information shared in this way, do not connect your social media service account with your Services.
+Business Partners: We may also share your information with business partners to provide you with services that you request.
+Service Providers: We may share information with vendors providing contractual services to us, such as hosting vendors, advertising service providers, and list managers. We also may share your information, including your payment information, as appropriate to process your payments for the Services or complete a transaction.
+Other Parties When Required by Law or As Necessary to Protect Our Users and Services: We may share your personal information as we believe is necessary or appropriate to protect, enforce, or defend the legal rights, privacy, safety, or property of the Services, our employees or agents or users or to comply with applicable law or legal process, including responding to requests from public and government authorities.
+Affiliates: We may share information within our family of affiliated companies and business associates.
+Third Parties that Provide Content, Advertising, or Functionality: When you use our Services, third parties may collect or receive certain information about you and/or your use of the Services (e.g., hashed data, click stream information, browser type, time and date, information about your interactions with advertisements and other content), including through the use of cookies, beacons, mobile ad identifiers, and similar technologies, in order to provide content, advertising, or functionality or to measure and analyse ad performance, on our Services or other websites or platforms. This information may be combined with information collected across different websites, online services, and other linked or associated devices. These third parties may use your information to improve their own services and consistent with their own privacy policies.
+Other Parties in Connection with a Corporate Transaction: We reserve the right to transfer any information we have about you in the event that we sell or transfer all or a portion of our business or assets to a third party, such as in the event of a merger, acquisition, or in connection with a bankruptcy reorganization.
+Otherwise with Your Consent or At Your Direction:  In addition to the sharing described in this Privacy Policy, we may share information about you with third parties whenever you consent to or direct such sharing.
+We also may share other information with third parties in a manner that does not identify particular users, including, for example, aggregated data about how users are using our Services.
+Links to Third-Party Sites: Our Services may link to third-party websites and services that are outside our control. We are not responsible for the security or privacy of any information collected by other websites or other services. You should exercise caution and review the privacy statements applicable to the third-party websites and services you use.
+G- INTERNATIONAL DATA TRANSFERS
+There will be occasions where the data we collect is required to be transferred to countries which do not have an adequacy decision by the European Commission. This means that the country to which we transfer your information does not provide adequate level of protection. To ensure that your information is adequately protected, we reply on measures to ensure that your information is treated in a manner which is consistent with the applicable law.
+H- YOUR RIGHTS AND HOW TO EXERCISE THEM
+You may make a raise a request with us for a copy of your personal data as well as their rectification or erasure. You may use your right to restrict a processing or to oppose a processing. Please note however that in the event you exercise your right to restrict or oppose a processing, your access to all or part of the website and / or to the services may be impacted.
+You can request to exercise your right to data portability, that is to say the right to receive the personal data that you have provided us in a structured format, in order to transmit such data to another controller.
+To exercise your rights, we encourage you to contact us via email using the contact details provided below-
+Mr.Binoy Prabhakar
+Grievance Officer
+HT Digital Streams Ltd.
+Corporate Office: 2nd Floor 18-20 KG Marg
+New Delhi-110001
+Phone: + 91 11 66561123
+Email:grievance@htdigital.in
+  जरूर पढ़ें
+वायरल खबरें
+Top Performing Section common
+Hindi NewsCareerAstrologyUttar PradeshCricketNationalNCREntertainmentBusinessLifestyleBiharWeb StoriesAutoGadgetsInternationalRajasthanWeatherMadhya PradeshMaharashtraPhotosVideosResults
+State
+Haryana NewsUttarakhand NewsJharkhand NewsMP NewsUP NewsBihar NewsDelhi NewsMaharashtra newsRajasthan NewsElection ScheduleWeatherIndependence day quiz
+Astrology
+Astrology NewsAaj Ka RahifalAaj Ka Panchang Ank Jyotish Vastu TipsAaj Ka Tula RashifalAaj Ka Kumbh Rashifal Aaj Ka Mesh RashifalAaj Ka Vrishabh RashifalGod Shiva2026 Horoscopeग्रह गोचर 20262026 में ग्रहणहिन्दू कैलेंडर 2026Long Weekends in 2026Hanuman ChalisaBajrang BaanShani ChalisaNumerology Prediction PanchangMahamrityunjay MantraShiv Ji Ki AartiShiv Stuti
+Business
+Business NewsShare MarketPetrol PricesDiesel PricesITRPersonal InvestmentBudgetMarket Stats
+Career
+Career NewsEducationEngineeringMedical
+Entertainment
+Entertainment News TV NewsWeb SeriesMovie ReviewBigg Boss
+Cricket
+Cricket NewsLive score
+Lifestyle
+Lifestyle Tips HealthFashionParenting tipsTravelFitness
+Web Stories
+Entertainment SportsHealthTrendingBeautyFaith
+Top Performing Section common
+Hindi NewsCareerAstrologyUttar PradeshCricketNationalNCREntertainmentBusinessLifestyleBiharWeb StoriesAutoGadgetsInternationalRajasthanWeatherMadhya PradeshMaharashtraPhotosVideosResults
+State
+Haryana NewsUttarakhand NewsJharkhand NewsMP NewsUP NewsBihar NewsDelhi NewsMaharashtra newsRajasthan NewsElection ScheduleWeatherIndependence day quiz
+Astrology
+Astrology NewsAaj Ka RahifalAaj Ka Panchang Ank Jyotish Vastu TipsAaj Ka Tula RashifalAaj Ka Kumbh Rashifal Aaj Ka Mesh RashifalAaj Ka Vrishabh RashifalGod Shiva2026 Horoscopeग्रह गोचर 20262026 में ग्रहणहिन्दू कैलेंडर 2026Long Weekends in 2026Hanuman ChalisaBajrang BaanShani ChalisaNumerology Prediction PanchangMahamrityunjay MantraShiv Ji Ki AartiShiv Stuti
+Business
+Business NewsShare MarketPetrol PricesDiesel PricesITRPersonal InvestmentBudgetMarket Stats
+Career
+Career NewsEducationEngineeringMedical
+Entertainment
+Entertainment News TV NewsWeb SeriesMovie ReviewBigg Boss
+Cricket
+Cricket NewsLive score
+Lifestyle
+Lifestyle Tips HealthFashionParenting tipsTravelFitness
+Web Stories
+Entertainment SportsHealthTrendingBeautyFaith
+Connect with us
+Download App
+आरएसएसविज्ञापन र॓टहमार॓ साथ काम करेंहमारे बारे मेंसंपर्क करेंगोपनीयतासाइट जानकारी
+Advertise with usAbout usCareers Privacy Contact usSitemapCode Of Ethics
+Partner sites: Hindustan TimesMintHT TechShineHT TeluguHT BanglaHT TamilHT MarathiHT AutoHealthshotsHT SmartcastFAB Play
+Copyright © 2025 HT Digital Streams Limited. All Rights Reserved.
+Privacy and cookie settings

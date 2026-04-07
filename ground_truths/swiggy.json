@@ -1,0 +1,66 @@
+[
+    {
+        "attribute_name": "offering_service_to_data_principal_within_india",
+        "value": "true"
+    },
+    {
+        "attribute_name": "lawful_purpose",
+        "value": "true"
+    },
+    {
+        "attribute_name": "notice_languages_all_eighth_schedule",
+        "value": "false"
+    },
+    {
+        "attribute_name": "consent_is_freely_given",
+        "value": "true"
+    },
+    {
+        "attribute_name": "consent_is_specific_to_purpose",
+        "value": "true"
+    },
+    {
+        "attribute_name": "consent_is_informed",
+        "value": "false"
+    },
+    {
+        "attribute_name": "consent_is_unambiguous",
+        "value": "false"
+    },
+    {
+        "attribute_name": "consent_request_language_all_eighth_schedule",
+        "value": "false"
+    },
+    {
+        "attribute_name": "consent_request_contains_contact_details_of_dpo_or_equivalent",
+        "value": "true"
+    },
+    {
+        "attribute_name": "easy_consent_withdrawal",
+        "value": "false"
+    },
+    {
+        "attribute_name": "purpose_of_processing",
+        "value": "specified_purpose"
+    },
+    {
+        "attribute_name": "consent_notice_information_about_personal_data",
+        "value": "true"
+    },
+    {
+        "attribute_name": "consent_notice_purpose_of_processing",
+        "value": "true"
+    },
+    {
+        "attribute_name": "consent_notice_how_to_exercise_rights_sec6.4",
+        "value": "true"
+    },
+    {
+        "attribute_name": "consent_notice_how_to_exercise_rights_sec13",
+        "value": "true"
+    },
+    {
+        "attribute_name": "consent_notice_how_to_complaint_to_board",
+        "value": "false"
+    }
+]

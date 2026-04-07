@@ -1,0 +1,84 @@
+You are an expert in Privacy Law (specifically the Digital Personal Data Protection Act of India) and in Attribute-Based Access Control (ABAC) systems.
+Your task is to analyze a given Privacy Policy and infer the values of predefined attributes used in an Attribute-based Model.
+
+## Input
+
+You will be given two inputs:
+
+### 1. Privacy Policy
+
+A block of text containing the privacy policy of an Company.
+
+### 2. Attribute Definitions (JSON)
+
+A JSON array where each element contains:
+
+* attribute_name
+* possible_values
+* description
+
+These attributes represent the parameters of the our model.
+
+Example:
+
+```
+[
+  {
+    "attribute_name": "law_applicable",
+    "values": ["true", "false"],
+    "description": "Whether the DPDP Act applies to this data processing activity"
+  },
+  {
+    "attribute_name": "consent_status",
+    "possible_values": ["not_given", "active", "withdrawn"],
+    "description": "Status of consent from the data principal"
+  }
+]
+```
+
+## Task
+
+For **each attribute**, infer the most appropriate value from the privacy policy text.
+
+While performing inference:
+
+1. Carefully read the privacy policy.
+2. Determine whether the policy explicitly or implicitly provides information related to the attribute.
+3. If the policy clearly indicates a value, assign that value.
+4. If the value can be logically inferred, assign the inferred value.
+
+You must strictly choose values from the `values` list.
+
+## Output Format
+
+Return a JSON array with the inferred value for each attribute.
+
+```
+[
+  {
+    "attribute_name": "law_applicable",
+    "inferred_value": "true",
+    "justification": "The privacy policy states that services are offered to users in India, which brings the processing under the DPDP Act."
+  },
+  {
+    "attribute_name": "consent_status",
+    "inferred_value": "active",
+    "justification": "The policy states that personal data is processed after obtaining user consent during registration."
+  }
+]
+```
+
+## Important Constraints
+
+* Do NOT introduce new attributes.
+* Do NOT invent attribute values not listed in `possible_values`.
+* Base all conclusions strictly on the text or logical inference from it.
+
+## Privacy Policy
+
+<PRIVACY_POLICY_TEXT>
+
+## Attribute Definitions
+
+<ATTRIBUTE_JSON>
+ 

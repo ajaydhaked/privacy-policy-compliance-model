@@ -1,0 +1,301 @@
+[
+    {
+        "attribute_name": "offering_service_to_data_principal_within_india",
+        "values": [
+            "true",
+            "false",
+            "unknown"
+        ],
+        "description": "Determine whether the privacy policy indicates that the service is offered to individuals (data principals) located in India. Mark 'true' if the policy explicitly mentions serving users in India, references Indian users, uses Indian contact addresses, accepts INR payments, mentions Indian regulations, or lists '.in' domains, or mentions any Indian language. Mark 'false' if the policy explicitly states the service is not available to individuals in India or is restricted to other geographies. Mark 'unknown' if the policy does not mention any geographic scope or there is insufficient information to determine whether Indian users are served.",
+        "attribute_type": "normal"
+    },
+    {
+        "attribute_name": "lawful_purpose",
+        "values": [
+            "true",
+            "false"
+        ],
+        "description": "Determine whether the purposes of data processing stated in the privacy policy are lawful — i.e., none of the stated purposes are expressly forbidden by any applicable law. Mark 'true' if all stated processing purposes appear to be legitimate and not prohibited by law (e.g., providing a service, improving user experience, fulfilling contractual obligations, complying with legal requirements). Mark 'false' if any stated purpose is explicitly illegal, facilitates an unlawful activity, or contradicts a specific legal prohibition (e.g., collecting data for discriminatory profiling banned by law, selling children's data without authorization, or any purpose a court or regulator has declared unlawful).",
+        "attribute_type": "normal"
+    },
+    {
+        "attribute_name": "notice_languages_all_eighth_schedule",
+        "values": [
+            "true",
+            "false"
+        ],
+        "description": "Determine whether the privacy policy or notice is made available in all 22 languages listed in the Eighth Schedule of the Indian Constitution (Assamese, Bengali, Bodo, Dogri, Gujarati, Hindi, Kannada, Kashmiri, Konkani, Maithili, Malayalam, Manipuri, Marathi, Nepali, Odia, Punjabi, Sanskrit, Santali, Sindhi, Tamil, Telugu, Urdu). Mark 'true' only if the policy explicitly states it is available in all these languages or if a language selector on the page confirms availability in all 22 languages. Mark 'false' if the policy is available only in English or a limited subset of these languages.",
+        "attribute_type": "normal"
+    },
+    {
+        "attribute_name": "consent_is_freely_given",
+        "values": [
+            "true",
+            "false"
+        ],
+        "description": "Determine whether the privacy policy indicates that consent for data processing is given without any coercion, undue influence, fraud, misrepresentation or tied to unrelated services. Mark 'true' if the policy does not indicate any of the above mentioned conditions. Mark 'false' if the policy indicates any of the above mentioned conditions.",
+        "attribute_type": "normal"
+    },
+    {
+        "attribute_name": "consent_is_specific_to_purpose",
+        "values": [
+            "true",
+            "false"
+        ],
+        "description": "Consent should be for specified purposes, i.e., the identified lawful purposes, with a clear scope. Whether the consent is limited to the processing of Personal Data which is necessary for such a specified purpose. Mark 'true' if the purpose of processing in policy is specific and limited to the processing of Personal Data, which is necessary for such a specified purpose. Mark 'false' if the policy indicates any of the above mentioned conditions.",
+        "attribute_type": "normal"
+    },
+    {
+        "attribute_name": "consent_is_informed",
+        "values": [
+            "true",
+            "false"
+        ],
+        "description": "The data principal must be informed of: The nature of personal data collected, Purpose of processing, Rights available (access, correction, withdrawal) and Contact details of grievance redressal. Mark true if the policy contains all the above mentioned conditions. Mark false if the policy does not contain any of the above mentioned conditions.",
+        "attribute_type": "normal"
+    },
+    {
+        "attribute_name": "consent_is_unambiguous",
+        "values": [
+            "true",
+            "false",
+            "unknown"
+        ],
+        "description": "Determine whether the privacy policy indicates that consent is obtained through a clear, affirmative action by the user. Mark 'true' if the policy mentions that consent is explicitly taken from the user. Mark 'false' if the policy indicates that consent is taken by default without explicit user action. Mark 'unknown' if the policy does not mention how consent is collected or the consent mechanism is not described.",
+        "attribute_type": "normal"
+    },
+    {
+        "attribute_name": "consent_request_language_all_eighth_schedule",
+        "values": [
+            "true",
+            "false"
+        ],
+        "description": "Determine whether the consent request (the specific prompt or form asking users for consent) is available in English and in all 22 languages listed in the Eighth Schedule of the Indian Constitution. Mark 'true' only if the policy explicitly states that the consent request itself is presented in English and all 22 Eighth Schedule languages, or if visible evidence (e.g., multilingual consent forms) confirms this. Mark 'false' if the consent request is available only in English or a limited number of languages.",
+        "attribute_type": "normal"
+    },
+    {
+        "attribute_name": "consent_request_contains_contact_details_of_dpo_or_equivalent",
+        "values": [
+            "true",
+            "false"
+        ],
+        "description": "Determine whether the privacy policy or consent request includes the contact details of a Data Protection Officer (DPO) or an equivalent designated person who can respond to queries about the processing of personal data. Mark 'true' if the policy provides a name, email address, phone number, postal address, or any direct contact method for a DPO or a clearly designated privacy/data protection contact person. Mark 'false' if no such contact information is provided, or if only a generic customer support email/helpdesk is listed without any reference to a data protection role or responsibility.",
+        "attribute_type": "normal"
+    },
+    {
+        "attribute_name": "easy_consent_withdrawal",
+        "values": [
+            "true",
+            "false",
+            "unknown"
+        ],
+        "description": "Determine whether the privacy policy indicates that withdrawing consent is as simple and easy as the process used to give consent. Mark 'true' if the policy describes a withdrawal mechanism that is equally accessible and straightforward as the consent-giving mechanism (e.g., if consent was given via a single click, withdrawal can also be done via a single click or having small activity center where customers can withdraw just by few clicks). Mark 'false' if the withdrawal process is more burdensome than the consent process (e.g., consent given online but withdrawal requires sending a physical letter, calling a helpline, or completing a multi-step verification process not required during consent). Mark 'unknown' if the policy does not describe a withdrawal mechanism or does not provide enough detail to compare the ease of giving vs. withdrawing consent.",
+        "attribute_type": "normal"
+    },
+    {
+        "attribute_name": "purpose_of_processing",
+        "values": [
+            "specified_purpose",
+            "state_benefits",
+            "integrity_of_india",
+            "sovereignty_of_india",
+            "security_of_state",
+            "obligation_under_law",
+            "medical_emergency",
+            "disaster_management",
+            "safeguarding_employment"
+        ],
+        "description": "Identify the primary purpose(s) for which personal data is processed as stated in the privacy policy. Select 'specified_purpose' if data is processed for a specific, explicitly stated commercial or operational purpose (e.g., providing a service, personalizing experience, processing transactions, marketing). Select 'state_benefits' if processing is for delivering government subsidies, services, benefits, licenses, or permits to the data principal. Select 'integrity_of_india' if processing is justified for protecting the integrity of India as a nation. Select 'sovereignty_of_india' if processing is justified for protecting the sovereignty of India. Select 'security_of_state' if processing is for national security, intelligence, or defense purposes. Select 'obligation_under_law' if processing is done to comply with a legal mandate, court order, or statutory requirement. Select 'medical_emergency' if processing is for responding to a threat to the life or health of the data principal or another individual. Select 'disaster_management' if processing is for responding to or managing a disaster or public emergency. Select 'safeguarding_employment' if processing is carried out by an employer for purposes related to safeguarding the employment relationship (e.g., background verification, workplace safety, prevention of corporate espionage).",
+        "attribute_type": "normal"
+    },
+    {
+        "attribute_name": "consent_notice_information_about_personal_data",
+        "values": [
+            "true",
+            "false"
+        ],
+        "description": "Determine whether the privacy policy's consent notice explicitly describes what categories or types of personal data will be collected from the user. Mark 'true' if the policy lists or describes specific categories of personal data to be collected (e.g., name, email address, phone number, location data, browsing history, financial information, biometric data). Mark 'false' if the policy does not mention what personal data is collected, uses only vague terms like 'your information' or 'data' without specifying categories, or if the consent notice section entirely omits a description of the personal data involved.",
+        "attribute_type": "normal"
+    },
+    {
+        "attribute_name": "consent_notice_purpose_of_processing",
+        "values": [
+            "true",
+            "false"
+        ],
+        "description": "Determine whether the privacy policy explicitly describes the purpose(s) for which personal data is collected and processed. Mark 'true' if the policy clearly states why data is being collected (e.g., 'to provide our services', 'to send marketing communications', 'to improve user experience', 'to comply with legal obligations', 'to process your order'). Mark 'false' if the policy does not state any purpose for data collection, or states purposes only in vague, uninformative terms (e.g., 'for business purposes' or 'as needed') that do not give the user a meaningful understanding of why their data is being processed.",
+        "attribute_type": "normal"
+    },
+    {
+        "attribute_name": "consent_notice_how_to_exercise_rights_sec6.4",
+        "values": [
+            "true",
+            "false"
+        ],
+        "description": "Determine whether the privacy policy's consent notice describes how a user can withdraw their previously given consent (as required under Section 6(4) of the DPDP Act). Mark 'true' if the policy provides clear instructions or a mechanism for withdrawing consent (e.g., 'you can withdraw consent by clicking the Manage Preferences link', 'email us at privacy@company.com to withdraw consent', 'use the opt-out toggle in your account settings'). Mark 'false' if the policy does not mention the ability to withdraw consent at all, or acknowledges the right but provides no instructions, process, or contact information for actually doing so.",
+        "attribute_type": "normal"
+    },
+    {
+        "attribute_name": "consent_notice_how_to_exercise_rights_sec13",
+        "values": [
+            "true",
+            "false"
+        ],
+        "description": "Determine whether the privacy policy's consent notice describes the grievance redressal mechanism provided by the Data Fiduciary for addressing complaints about acts or omissions related to data processing (as required under Section 13 of the DPDP Act). Mark 'true' if the policy describes a specific internal grievance process or provides contact details for lodging complaints, or describes a complaint resolution procedure and expected response timelines. Mark 'false' if the policy does not mention any grievance redressal mechanism, does not identify a Grievance Officer or contact point, or only mentions generic customer support without framing it as a means of addressing data-related grievances.",
+        "attribute_type": "normal"
+    },
+    {
+        "attribute_name": "consent_notice_how_to_complaint_to_board",
+        "values": [
+            "true",
+            "false"
+        ],
+        "description": "Determine whether the privacy policy's consent notice informs users about their right to file a complaint with the Data Protection Board of India and describes how to do so. Mark 'true' if the policy explicitly mentions the Data Protection Board of India (or equivalent regulatory body under the DPDP Act) and provides instructions, a reference, or a link for filing a complaint with the Board. Mark 'false' if the policy makes no mention of the Data Protection Board, does not inform users of their right to escalate complaints to the Board, or mentions only internal grievance mechanisms without referencing the external regulatory body.",
+        "attribute_type": "normal"
+    },
+    {
+        "attribute_name": "law_applicable",
+        "values": [
+            "true",
+            "false"
+        ],
+        "default": "false",
+        "description": "",
+        "attribute_type": "dependent"
+    },
+    {
+        "attribute_name": "consent_status",
+        "values": [
+            "not_given",
+            "active",
+            "withdrawn"
+        ],
+        "default": "not_given",
+        "description": "",
+        "attribute_type": "dependent"
+    },
+    {
+        "attribute_name": "legitimate_use",
+        "values": [
+            "true",
+            "false"
+        ],
+        "default": "false",
+        "description": "",
+        "attribute_type": "dependent"
+    },
+    {
+        "attribute_name": "consent_notice_wellformed",
+        "values": [
+            "true",
+            "false"
+        ],
+        "default": "false",
+        "description": "",
+        "attribute_type": "dependent"
+    },
+    {
+        "attribute_name": "option_for_consent_withdrawal",
+        "values": [
+            "true",
+            "false"
+        ],
+        "default": "false",
+        "description": "",
+        "attribute_type": "dependent"
+    },
+    {
+        "attribute_name": "option_for_consent_withdrawal",
+        "values": [
+            "true",
+            "false"
+        ],
+        "default": "false",
+        "description": "",
+        "attribute_type": "dependent"
+    },
+    {
+        "attribute_name": "past_processing_with_active_consent_legal",
+        "values": [
+            "true",
+            "false"
+        ],
+        "default": "false",
+        "description": "",
+        "attribute_type": "dependent"
+    },
+    {
+        "attribute_name": "consent_preconditions_fullfilled",
+        "values": [
+            "true",
+            "false"
+        ],
+        "default": "false",
+        "description": "",
+        "attribute_type": "dependent"
+    },
+    {
+        "attribute_name": "allow_data_processing",
+        "values": [
+            "true",
+            "false"
+        ],
+        "default": "false",
+        "description": "",
+        "attribute_type": "dependent"
+    },
+    {
+        "attribute_name": "voluntary_data_for_specified_purpose",
+        "values": [
+            "true",
+            "false"
+        ],
+        "description": "",
+        "attribute_type": "unknown"
+    },
+    {
+        "attribute_name": "consent_action",
+        "values": [
+            "true",
+            "false"
+        ],
+        "description": "",
+        "attribute_type": "unknown"
+    },
+    {
+        "attribute_name": "consent_withdraw_action",
+        "values": [
+            "true",
+            "false"
+        ],
+        "description": "",
+        "attribute_type": "unknown"
+    },
+    {
+        "attribute_name": "reasonable_time_elapsed",
+        "values": [
+            "true",
+            "false"
+        ],
+        "description": "",
+        "attribute_type": "unknown"
+    },
+    {
+        "attribute_name": "consent_for_state_benefits",
+        "values": [
+            "true",
+            "false"
+        ],
+        "description": "",
+        "attribute_type": "unknown"
+    },
+    {
+        "attribute_name": "available_to_state_and_notified_by_government",
+        "values": [
+            "true",
+            "false"
+        ],
+        "description": "",
+        "attribute_type": "unknown"
+    }
+]

@@ -1,0 +1,1136 @@
+Uber Privacy Notice: Riders & Order Recipients
+Please enable Javascript
+Please enable Javascript
+Skip to main content
+Uber
+Ride
+Drive
+Business
+Uber Eats
+About
+About us
+Our offerings
+How Uber works
+Sustainability
+Newsroom
+Investor relations
+Autonomous
+Blog
+Careers
+More
+No results
+EN
+Help
+Log in
+Sign up
+Uber
+Log in
+Sign up
+,
+Uber Privacy Notice: Riders and Order Recipients
+When you use Uber, you trust us with your personal data. We’re committed to keeping that trust. That starts with helping you understand our privacy practices.
+This notice describes the personal data (“data”) we collect, how it’s used and shared, and your choices regarding this data. We recommend that you read this along with our
+privacy overview
+, which highlights key points about our privacy practices.
+Uber Privacy Notice: Drivers and Delivery People
+Previous version of the Privacy Notice
+I.
+Overview
+II.
+Data collections and uses
+A.
+Data we collect
+B.
+How we use data
+C.
+Core automated processes
+D.
+Cookies and related technologies
+E.
+Data sharing and disclosure
+F.
+Data retention and deletion
+III.
+Choice and transparency
+IV.
+Legal information
+A.
+Data controllers and Data Protection Officer
+B.
+Our legal bases for using your data
+C.
+Legal framework for data transfers
+D.
+Updates to this Privacy Notice
+I. Overview
+A. Scope
+This notice applies when you use Uber’s apps or websites to request or receive products or services, including rides or deliveries.
+This notice describes how we collect and use your data if you request or receive products or services through Uber’s apps or websites, except when you use
+Uber Freight
+or
+Careem
+.
+This notice specifically applies if you:
+Request or receive mobility services, including rides and package delivery and return services through
+Uber Connect
+, via your
+Uber
+account (a “Rider”).
+Request or receive food or other products and services for delivery or pickup, including via your
+Uber Eats
+or
+Postmates
+account, or through the guest checkout features that allow you to access delivery or pickup services without creating and/or signing into your account (an “Order Recipient”).
+Receive services through Uber’s apps or websites requested by other account owners (a “Guest User”), including if you receive ride or delivery services ordered by
+Uber Health
+,
+Central
+,
+Uber Direct
+or
+Uber for Business
+customers (collectively, “Enterprise Customers”); or by friends, family members or other individual account owners, including via
+Uber Connect
+; or receive a gift card.
+Rent a vehicle through
+Uber Car Rentals
+(a “Renter”).
+This notice does
+not
+describe Uber’s collection and use of your data if you use Uber to provide (instead of request or receive) services through Uber’s app or websites, including as a driver or delivery person. Uber’s notice describing our collection and use of such data is available
+here
+. Those who use Uber to either request, receive or provide services are referred to as “users” in this notice.
+Our privacy practices are subject to applicable laws in the places in which we operate. The types of data processing that such laws require, allow, or prohibit vary globally. Therefore, if you travel across national, state or other geographic borders, Uber's data processing practices described in this notice may differ from those in your home country or territory.
+In addition, please note the following if you use Uber in:
+Argentina
+Down Small
+The Agency of Access to Public Information, in its role of Regulating Body of Law 25.326, is responsible for receiving complaints and reports presented by any data subjects who believe their rights have been impacted by a violation of the local data protection regulation.
+Australia
+Down Small
+You may contact Uber
+here
+regarding our compliance with the Australian Privacy Principles. Such contacts will be addressed by Uber’s customer service and/or relevant privacy teams within a reasonable timeframe. You may also contact the Office of the Australian Information Commissioner
+here
+with concerns regarding such compliance.
+Brazil
+Down Small
+Please go
+here
+for information regarding Uber’s privacy practices as relates to Brazil’s General Data Protection Law (Lei Geral de Proteção de Dados - LGPD).
+Colombia, Honduras and Jamaica
+Down Small
+“Riders” and “drivers” as used in this notice are known respectively as “lessees” and “lessors.”
+European Economic Area (“EEA”), United Kingdom (“UK”), and Switzerland
+Down Small
+Due to data protection and other laws in these regions, including the European Union’s General Data Protection Regulation (“GDPR”), Uber does not perform some of the data collections and uses described in this notice in the EEA, UK or Switzerland.
+Such data collections and uses are indicated with an asterisk (*).
+If you use Uber outside of these regions, your data may be collected and used for the purposes indicated with an asterisk.
+Kenya
+Down Small
+You may contact Uber
+here
+with questions regarding Uber’s compliance with, or to request exercise of your rights under, Kenya’s Data Protection Act of 2019. You may also contact the Office of the Data Protection Commissioner
+here
+with concerns regarding such compliance or exercise of your rights.
+Mexico
+Down Small
+Please go
+here
+for information regarding Uber’s privacy practices as relates to Mexico’s Personal Data Protection Law (Ley Federal de Protección de Datos Personales en Posesión de los Particulares), and
+here
+for information regarding Uber Money's processing of personal data.
+Nigeria
+Down Small
+You may contact Uber
+here
+regarding Uber’s compliance with, or to request exercise of your rights under, Nigeria’s Data Protection Act of 2023. You may also contact the Nigeria Data Protection Commission
+here
+with concerns regarding such compliance.
+Quebec, Canada
+Down Small
+You may contact Uber
+here
+with questions about Uber’s use of your data for purposes of automated decision making, including regarding the factors considered in connection with such decision, to request correction of any personal data relating to such decisions, and to request review of any such decisions by Uber personnel.
+South Korea
+Down Small
+Uber does not perform some of the data collections and uses described in this notice in South Korea. Please go
+here
+for information regarding Uber’s privacy practices as relates to South Korea’s Personal Information Protection Act.
+Switzerland
+Down Small
+Uber Switzerland GmbH (Stockerstrasse 33
+8002 Zürich, Switzerland) is Uber’s appointed representative for purposes of the Federal Act on Data Protection and may be contacted
+here
+or by mail as relates to that act.
+Taiwan
+Down Small
+Please see
+here
+for information on the measures adopted by Uber when conducting cross-border data transfers in accordance with Taiwan’s Personal Data Protection Act and its relevant regulations, as well as other related information.
+United States
+Down Small
+Please go
+here
+for information regarding Uber’s privacy practices as relates to US state privacy laws, including the California Consumer Privacy Act. If you use Uber in Nevada or Washington, please go
+here
+for information regarding Uber’s practices as relates to collection and use of consumer health data under those states’ privacy laws.
+Please contact us
+here
+with any questions regarding our practices in a particular country or region.
+II. Data collections and uses
+A. The data we collect
+Uber collects data:
+1. That you provide
+2. When you use our services
+3. From other sources
+Please go
+here
+for a summary of the data we collect and how we use it.
+Uber collects the following data:
+1. Data you provide
+: This includes:
+Data category
+Data types
+a.
+Account information.
+We collect data when you create or update your Uber account.
+Address
+Email
+First and last name
+Login name and password
+Phone number
+Payment method (including related payment verification information)
+Profile picture
+Settings (including accessibility settings) and preferences
+Uber partner loyalty program information
+b.
+Demographic data.
+We collect demographic data if necessary to enable certain features. For example:
+We collect your date of birth and/or age to verify your eligibility to use age-restricted products or services, such as
+Uber for teens
+, or if you purchase alcohol, tobacco or cannabis products.
+We collect or infer your gender to enable
+Women Rider Preference
+, and for marketing and advertising.
+We may also collect demographic data through user surveys.
+Age or date of birth
+Gender or inferred gender (using first name)
+c.
+Identity verification information.
+This refers to the data that we collect to verify your account or identity.
+Government-issued identification documents, such as driver’s licenses or passports (which may contain identification photos and numbers, expiration date, date of birth, and gender)
+User-submitted selfies
+d.
+User content.
+This refers to the data that we collect when you:
+Contact Uber for customer support or other inquiries.
+Use features that enable you to create
+Lists
+or reviews of restaurants or merchants
+Upload photos and recordings (including those submitted for purposes of customer support)
+Provide ratings or feedback for drivers, delivery people, restaurants or merchants, or they provide feedback regarding you.
+Please go
+here
+for more information about how ratings provided by other users are determined and used.
+Chat logs and call recordings
+Ratings or feedback
+User created
+Lists
+or reviews of restaurants or merchants
+Uploaded photos and recordings, including
+in-app audio recordings
+e.
+Travel information.
+We collect travel itinerary information if you book bus, train or flight travel through Uber's apps.
+Dates/times of travel
+2. Data collected when you use our services
+: This includes:
+Data category
+Data types
+a.
+Location data.
+If you request a ride, we track your driver’s location during your trip, and link that data to your account. This allows us to display where you are on your trip.
+We also determine your approximate location, and can determine your precise location if you allow us to do so through the settings on your phone. If you do, we will collect your precise location from the time you request a ride or order until the ride is finished or your order is delivered. We also collect such data when you have the Uber app open on your phone’s screen.
+You can use Uber without letting us collect your precise location. However, it may be less convenient for you, including because you will have to type your location into your phone instead of allowing us to detect it for you.
+See “
+Choice and transparency
+” section below for information on how to control whether Uber may collect your precise location data.
+Approximate location
+Precise location
+b.
+Trip/order information.
+This refers to the details we collect about your trip or order, including orders placed via guest checkout features.
+Payment information (including amount charged and payment method)
+Proof of delivery (including photo or signature)
+Special instructions, allergies or food preferences
+Statistics derived from past trip/order information, such as
+Averages
+Cancellation rates
+Total trips/orders
+Trip or order details, including
+Date and time
+Requested pickup and dropoff addresses
+Distance traveled
+Restaurant or merchant name and location
+Items ordered
+c.
+Usage data.
+This refers to data about how you interact with Uber’s apps and websites.
+App crashes and other system activity
+Access dates and times
+App features or pages viewed
+Browser type
+d.
+Device data.
+This refers to data about the device(s) you use to access Uber.
+Advertising identifiers
+Device motion data
+Device IP address or other unique device identifiers
+Hardware models
+Mobile network data
+Operating systems and versions
+Preferred languages
+e.
+Communications data.
+This refers to the data we collect when you communicate with drivers and delivery people through Uber’s apps.
+Communication type (phone or text message)
+Content (including recordings of phone calls solely when users are notified of the recording in advance)
+Date and time
+3. Data from other sources
+: These include:
+Data category
+Data types
+a.
+Law enforcement officials, public health officials and other government authorities.
+Name and contact information
+Information relating to law enforcement, health or other investigations
+b.
+Marketing partners and service providers.
+This includes banks in connection with cash back programs,* and data resellers.*
+Activity information
+Name and contact information
+User or device identifiers
+c.
+Service providers who help us verify your identity or detect fraud.
+*
+Confirmation of whether your account information relates to known persons
+Name and contact information
+Information relating to the wireless carrier associated with your phone number
+Information from government-issued identification documents such as driver’s licenses or passports (such as identification numbers, expiration date, date of birth, and gender)
+d.
+Uber account owners.
+This refers to Uber account owners who request services for you (such as friends or family members), or who enable you to request services through their accounts (such as Enterprise Customers).
+Name and contact information
+Trip/order info
+Location
+e.
+Uber business partners (account creation and access, and APIs).
+Uber may receive your data from business partners through which you create or access your Uber account, such as payment providers, social media services, or apps or websites that use Uber’s APIs or whose APIs Uber uses.
+The information received from Uber business partners depends on which partners you use to create or access your Uber account, or the API used.
+f.
+Uber business partners (debit or credit cards).
+Uber may receive your data from business partners in connection with debit or credit cards issued by a financial institution in partnership with Uber to the extent disclosed in the terms and conditions for the card.
+Debit or credit card activity information
+g.
+Users or others providing information in connection with customer support issues, claims or disputes.
+Name
+Evidence relating to accidents, conflicts, claims or disputes (which may include photos or recordings of you)
+h.
+Users participating in Uber’s referral programs.
+For example, if you are referred to Uber by another user, we receive your data from that user.
+Name and contact information
+B. How we use data
+Uber uses data to enable reliable and convenient transportation, delivery, and other products and services. We also use data:
+To enhance the safety and security of our users and services, and to prevent and detect fraud
+For marketing and advertising
+To enable communications between users
+For customer support
+For research and development
+To send non-marketing communications to users
+In connection with legal proceedings
+1. To provide our services.
+Uber uses data to provide, personalize, maintain, and improve our services.
+Data uses
+Data used includes
+a.
+Creating and updating your account
+Account
+Demographics
+Location
+b.
+Enabling services and features.
+This includes:
+Enabling navigation to pickups and dropoffs, calculating ETAs and tracking the progress of rides or deliveries
+Matching you with available drivers or delivery people when you request transportation or deliveries
+Enabling features that involve data sharing, such as ETA sharing and fare splitting
+Enabling accessibility features
+Enabling features that involve account linking, such as linking with Uber partners’ loyalty programs
+Facilitating and optimizing rental car reservations, pickup and dropoff through Uber Rent
+Account
+Data from other sources
+Demographics
+Device
+Ratings
+Travel
+c.
+Calculating rider/recipient
+prices and driver/delivery person fares
+.
+Location
+Trip/order info
+d.
+Processing payments and enabling payment and e-money products such as Uber Money.
+Account
+Demographics
+Data from other sources
+Trip/order info
+e.
+Personalizing your account.
+For example, we may present you with personalized restaurant or food recommendations, or trip suggestions, based on your prior orders, trips and delivery location.
+Account
+Demographics
+Data from other sources
+Trip/order info
+f.
+Providing you with trip or delivery updates and generating receipts.
+Account
+Trip/order info
+g.
+Informing you of changes to our terms, services, or policies.
+Account
+Trip/order info
+h.
+Performing necessary operations to maintain our services, including to troubleshoot software bugs and operational problems.
+Account
+Device
+Usage
+2. For safety, security, and fraud prevention and detection.
+Uber uses data to help maintain the safety and security of our services and users.
+Data uses
+Data used includes
+a.
+Verifying your account, identity or compliance with safety requirements.
+This includes:
+Verifying
+that you are who you say you are by cross-checking the account information you provide during signup (such as name, email, telephone number, date of birth or payment information) against third-party databases*
+Verifying
+that your account is being used by you and not someone else by:
+Collecting your ID number and/or a photo of your ID, and completing a verification to confirm that the ID is valid, unaltered and that no other account is associated with that document*
+Collecting a real-time selfie that we compare against the photo on your ID to confirm that it’s the same person*
+Verifying your identity and/or age by collecting a photo of your ID when you receive delivery of age-restricted items like alcohol, tobacco or cannabis, or use products like Uber Rent and Uber Connect
+Verifying, when you rent a bike or scooter through Uber, that you are wearing a helmet, or other mandatory safety gear, by collecting a real-time selfie and using object verification technology
+Verifying your eligibility to subscribe to an
+Uber One for Students
+membership
+Account
+Data from other sources (third-party databases)
+Identity verification info
+User content
+b.
+Preventing, detecting, and combating fraud, including by Guest Users.
+Account
+Communications between users
+Data from other sources (driver data)
+Device
+Identity verification info
+Location
+Trip/order info
+Usage
+c.
+Predicting and helping avoid pairings of users that may result in increased risk of conflict,
+*
+or where one user has previously given the other a low (for instance, one star) rating.
+Account
+Trip/order info (including cancellation rates)
+Usage
+User content (ratings and reported incidents)
+d.
+Providing live support
+from safety experts during trips or deliveries.
+Account (phone, user name, vehicle details)
+Location
+Trip/order info
+User content
+3. For marketing and advertising.
+Uber uses data (except Guest Users’ data) to market its services, and those of Uber partners.
+Data uses
+Data used includes
+a.
+Personalizing marketing communications and ads relating to Uber products and services, and those offered by other companies.
+For example, Uber may:
+Send push notifications suggesting your favorite destinations or merchants, or in-app messages offering discounts or promotions for products or merchants similar to those you’ve previously ordered
+Display personalized ads on Uber or other companies’ apps or websites
+Personalize sponsored listings, discounts or promotions for restaurants and merchants available on Uber
+Account
+Data from other sources
+Demographics (including inferred gender)
+Device
+Location
+Trip/order info
+Usage
+b.
+Displaying ads that are targeted based on data about your current trip or delivery request, including time of request and services requested.
+For example, if you request a trip to a supermarket, we may display in-app ads for third-party products that may be available at that supermarket.
+Account
+Data from other sources
+Demographics (including inferred gender)
+Device
+Location
+Trip/order info
+Usage
+c.
+Measuring the effectiveness of the marketing communications and ads described above.
+Account
+Device
+Usage
+4. To enable communications between users.
+Data uses
+Data used includes
+For example, a driver may message or call you to confirm a pickup location, you may call a driver to retrieve a lost item, or a restaurant or delivery person may contact you with information about your order.
+Account
+Device
+Usage
+5. For customer support.
+Data uses
+Data used includes
+This includes investigating and addressing user concerns, monitoring and improving our customer support responses and processes, and identifying potential participants in research studies relating to customer support issues.
+Account
+Communications
+Device
+Identity verification info
+Data from other sources
+Location
+Travel information
+Usage
+User content
+Trip/order info
+6. For research and development.
+Data uses
+Data used includes
+We use data for analysis, research and product development, including training machine learning models. This helps us make our services more convenient and easy-to-use, enhance the safety and security of our services, and develop new services and features.
+Account
+Communications
+Demographics
+Device
+Identity verification info
+Data from other sources
+Location
+Travel information
+Usage
+User content
+Trip/order info
+7. For non-marketing communications.
+Data uses
+Data used includes
+This includes surveys and communications regarding elections, ballots, referenda and other political processes that relate to our services. For example, we may notify you of ballot measures or pending legislation relating to Uber’s services where you live.
+Account
+Location
+8. For legal proceedings and requirements.
+Data uses
+Data used includes
+We use data to investigate or address claims or disputes relating to use of Uber’s services; to satisfy requirements under applicable laws, regulations, operating licenses or agreements, insurance policies; or pursuant to legal process or governmental request, including from law enforcement.
+Account
+Communications
+Demographics
+Device
+Identity verification info
+Data from other sources
+Location
+Travel information
+Usage
+User content
+Trip/order info
+C. Core automated processes
+Uber uses automated processes to enable certain parts of our services, including functions essential to our business such as matching, pricing and fraud prevention and detection.
+Uber relies on automated processes to enable essential parts of our services, including matching (pairing users requesting and providing transportation and/or delivery services), pricing (calculating the amount owed for such services) and fraud detection and prevention. These processes allow Uber to provide a seamless, and safe, experience to millions of users globally every day.
+This section describes how automated matching, pricing, and fraud prevention and detection processes work, including how they impact your Uber experience and the personal and non-personal data used to enable these processes.
+You may contact Uber
+here
+if you have questions or concerns regarding these processes.
+1. Matching
+Down Small
+Uber uses algorithms to efficiently match Riders and drivers, or delivery people and Order Recipients. This helps us minimize wait times for you, and enable efficiency for drivers and delivery people.
+The matching process is triggered when you request transportation or deliveries through Uber. Our algorithms then evaluate various factors to determine the best match, including your location, requested destination, the proximity and availability of drivers or delivery people, traffic conditions, and historical data (including, in some markets, whether the specific Rider and driver have previously reported having negative experiences with each other).
+The trip or delivery request is then communicated to the driver/delivery person matched through this process. Once a trip or order is accepted, we send confirmation of the match to you and the driver/delivery person.
+We are constantly refining our matching process to provide the best experience to all users on our platform and may consider different factors depending on the location where you use Uber.
+Additional information on Uber’s matching process is available
+here
+.
+2. Pricing
+Down Small
+When you request transportation or a delivery, Uber uses algorithms to determine the price you pay based on a variety of factors, including:
+The type of service you request (for instance, UberX, UberXL, Uber Black)
+Your location
+Estimated time and distance to destination
+Availability and proximity of drivers or delivery people
+Time of day
+Traffic conditions
+Historical data such as traffic patterns and seasonal trends.
+Your price may also vary depending on tolls or surcharges incurred, tips, discounts, promotions and subscriptions, and route-based adjustments.
+The price may also vary depending on surge pricing, which automatically goes into effect when there are more Riders in a given area than available drivers. This encourages more drivers to serve the busy area over time and shifts Rider demand, to maintain reliability and restore balance.
+Additional information on Uber’s pricing process is available
+here
+.
+3. Fraud prevention and detection
+Down Small
+Uber uses algorithms and machine learning models to prevent and detect fraud against Uber or our users. This includes efforts to monitor for account takeovers, suspicious user behaviors, and unauthorized access attempts, including by third-party aggregators.
+These tools look for patterns that may indicate fraudulent behavior, such as those that vary significantly from typical user behavior. To do this, Uber performs real-time monitoring of information collected from or generated by users, including location data, payment information, and Uber usage. We also examine historical data and compare it against real-time data to help detect suspicious behavior.
+Uber may limit your access to its services, or require that you undertake a particular action such as verifying your identity before allowing such access, if it detects potential fraudulent activity.
+You may contact Uber customer support
+here
+if you have questions or concerns about these processes.
+D. Cookies and related technologies
+Uber and its partners use cookies and other identification technologies on our apps, websites, emails, and online ads for purposes described in this notice, and
+Uber’s Cookie Notice
+.
+Cookies are small text files that are stored on browsers or devices by websites, apps, online media, and ads. Uber uses cookies and similar technologies for purposes such as:
+Authenticating users
+Remembering user preferences and settings
+Determining the popularity of content
+Delivering and measuring the effectiveness of advertising campaigns
+Analyzing site traffic and trends, and generally understanding the online behaviors and interests of people who interact with our services.
+We may also allow others to provide audience measurement and analytics services for us, to serve ads on our behalf across the internet or for other companies’ products and services on our apps, and to track and report on the performance of those ads. These entities may use cookies, web beacons, SDKs and other technologies to identify the devices used by visitors to our websites, as well as when they visit other online sites and services.
+Please see our
+Cookie Notice
+for more information regarding the use of cookies and other technologies described in this section.
+E. Data sharing and disclosure
+We share your data with other users where necessary to provide our services or features, at your request, or with your consent. We also share data with our affiliates, subsidiaries, service providers and partners, for legal reasons, or in connection with claims or disputes.
+Uber may share data:
+1. With other users
+This may include sharing data with:
+Recipient
+Data shared
+Your driver
+Account
+First name
+Rating
+Pickup and/or dropoff locations
+Settings and preferences
+Other Riders during
+shared
+rides
+Account
+First name
+Restaurants/merchants you order from, and your delivery person
+Account
+First name
+Order info
+Delivery address (including with  restaurants/merchants that use their own delivery people to fulfill your order)
+Items ordered (which may include drug prescriptions)
+Special instructions, allergies or food preferences
+User content
+Feedback
+Ratings
+The owner of any Uber account you use.
+This includes if you use an account linked to a
+Family
+profile, or request or receive ride or delivery services as a Guest User of an Enterprise Customer’s account. 
+In addition, if you create an account using an email address affiliated with an Uber for Business account owner (i.e., your employer), we may share your account data (such as name and email address) with such account owner, to help you expense trips or orders to that Uber for Business account.*
+We may also share information with that account owner about issues involving your trip, such as safety incidents or complaints.
+Account
+Trip/order info
+Other recipients in your group order
+Account
+First name
+Order info
+Special instructions or allergies information
+Items ordered
+People who refer you to Uber.
+We may share your data as necessary to determine their referral bonus
+Trip/order info
+Trip count
+Other Uber Eats users.
+We share your data if you post a review of a restaurant or create a
+List
+of your favorite restaurants on Uber Eats, and set sharing of the List to “Public.”
+Account
+First name
+User content
+Lists
+Reviews
+2. Upon request or with your consent
+This may include sharing data with:
+Recipient
+Data shared
+Users with whom you use data-sharing features.
+This includes features that allow you to share your ETA and location, or split your fare.
+Depending on the feature used, may include:
+Account
+Location
+Trip/order info
+Uber business partners.
+We share data with companies whose apps or websites you access through Uber, including for purposes of promotions, contests or specialized services.
+Depending on the app or website you access through Uber, and for what purpose, may include:
+Account
+Device
+Trip/order info
+Emergency services.
+We enable you to share your data with police, fire, and ambulance services in the event of an emergency or after certain incidents. 
+For more information, please go to the
+“Choice and transparency”
+and
+“Emergency data sharing”
+sections below.
+Account
+Name
+Phone number
+Location
+Trip/order info
+Requested pickup/dropoff
+Insurance companies.
+If you are involved in an incident, or report or submit a claim to an insurance company relating to Uber’s services, Uber will share data with that insurance company for the purpose of adjusting or handling that claim.
+Data necessary to adjust or handle the claim, which may include:
+Account
+Communications between users
+Device
+Location
+Trip/order info
+Usage
+User content
+Merchants or restaurants.
+If you add a restaurant or merchant loyalty membership number to your user account, we share that data with the restaurant/merchant when you place an order with them.
+We also enable you to share your phone number, email and/or order info with restaurants or merchants to receive marketing communications from them.
+Account data
+Email
+Phone number
+Restaurant/merchant loyalty membership number
+Order info
+3. With Uber service providers and business partners
+These include the third parties, or categories of third parties, listed below. Where a third party is identified, please go to their linked privacy notices for information regarding their collection and use of personal data.
+Accountants, consultants, lawyers, and other professional service providers.
+Ad and marketing partners and providers, including ad and marketing publishers (such as social media platforms), ad networks and advertisers, third-party data providers, ad technology vendors, measurement and analytics providers, and other service providers. Uber uses these vendors to reach or better understand current and potential users of Uber services or of our advertising partners, and measure and improve ad effectiveness.
+Cloud storage providers.
+Customer support platform and service providers.
+Google
+, in connection with the use of Google Maps in Uber’s apps.
+Identity verification and risk solutions providers.
+Payment processors and facilitators, including
+PayPal
+and
+Hyperwallet
+.
+Providers of bikes and scooters that can be rented through Uber apps, such as
+Lime
+and
+Tembici
+.
+Research partners, including those performing surveys or research projects in partnership with Uber or on Uber’s behalf.
+Social media companies, including
+Meta
+and
+TikTok
+, in connection with Uber’s use of their tools in Uber’s apps and websites.
+Service providers that assist Uber to enhance the safety and security of Uber apps and services.
+Service providers that provide us with artificial intelligence and machine learning tools and services.
+Third-party vehicle suppliers, including fleet and rental partners.
+This also includes ad intermediaries, such as
+Criteo
+,
+Google
+,
+Rokt
+,
+The Trade Desk
+,
+TripleLift
+and others. We share data including advertising or device identifier, hashed email address, approximate location, current trip or order information, and ad interaction data with these intermediaries to enable their services and for such other purposes as are disclosed in their privacy notices. You may opt out from ad personalization
+here
+. For more information regarding these intermediaries’ privacy practices, including how to submit requests to them relating to their handling of personal data, please go to their privacy notices linked above.
+4. With Uber subsidiaries and affiliates
+We share data with our subsidiaries and affiliates to help us provide our services or conduct data processing on our behalf.
+5. For legal reasons or in the event of a claim or dispute
+Uber may share your data if we believe it’s required by applicable law, regulation, operating license or agreement, legal process or governmental request, insurance policy, or where the disclosure is otherwise appropriate due to safety or similar concerns.
+This includes sharing data with law enforcement officials, public health officials, other government authorities, insurance companies, or other third parties as necessary to enforce our
+Terms and Conditions
+, user agreements, or other policies; to protect Uber’s rights or property or the rights, safety, or property of others; or in the event of a claim or dispute relating to the use of our services. In the event of a dispute relating to use of another person’s credit card, we may be required by law to share a user’s data, including trip or order information, with the owner of that credit card.
+For more information, please see Uber’s
+Guidelines for United States Law Enforcement
+,
+Guidelines for Law Enforcement Authorities - Outside the United States
+, and
+Guidelines for Third Party Data Requests and Service of Legal Documents
+.
+We may also share data with others in connection with, or during negotiations of, any merger, sale of company assets, consolidation or restructuring, financing, or acquisition of all or a portion of our business by or into another company.
+F. Data retention and deletion
+Uber retains your data for as long as necessary for the purposes described above. Users may request account deletion through the Uber apps and websites.
+Uber retains your data for as long as necessary for the purposes described above, which varies depending on data type, the category of user to whom the data relates, the purposes for which we collected the data, and whether the data must be retained after an account deletion request for the purposes described below.
+For example, we retain data:
+For the life of your account if such data is necessary to provide our services (such as account data)
+For defined periods as necessary, including as necessary to meet tax, insurance, legal or regulatory requirements (for example, we retain transaction information for 7 years)
+You may request that we delete your account through the Privacy menus in the Uber app, or through Uber’s website (Riders and Order Recipients
+here
+; Guest Users
+here
+).
+Following an account deletion request, we delete your account and data, except as necessary for purposes of safety, security, fraud prevention or compliance with legal requirements, or because of issues relating to your account (such as an outstanding credit or an unresolved claim or dispute). We generally delete data within 90 days of an account deletion request, except where retention is necessary for the above reasons.
+III. Choice and transparency
+Uber enables you to access and/or control data that Uber collects, including through:
+Privacy settings
+Device permissions
+In-app ratings pages
+Marketing and advertising choices
+You may also request access to or copies of your data, make changes or updates to your account, request account deletion, or request that Uber restrict its processing of your data.
+1. Privacy settings
+You can set or update your preferences regarding location data collection and sharing, emergency data sharing, and notifications in Uber’s
+Privacy Center
+, which is accessible via the Privacy menu in the Uber apps.
+Location data collection
+Down Small
+You can enable/disable Uber’s collection of your mobile device location data through your device settings, which are accessible via the location sharing menu in the
+Privacy Center
+in Uber’s apps.
+Share live location
+Down Small
+You can enable/disable Uber’s sharing of your mobile device real-time location data with your drivers or delivery people through your device settings, which are accessible via the Account > Settings > Privacy > Location sharing menu in Uber’s apps.
+Gender identity
+Down Small
+You can update your gender information through the Account > Settings > Privacy > Ads and Data > Gender Identity menu in Uber’s apps.
+Emergency data sharing
+Down Small
+You may enable Uber to share your data with emergency police, fire and ambulance services if necessary during a trip. If you do, we will share data including your name and phone number; approximate location at the time the emergency call was placed; the car’s make, model, color, and license plate information; pickup and dropoff locations; and your driver’s name.
+You can enable/disable this feature via the Location sharing menu in the
+Privacy Center
+in Uber's apps, or the Safety Center.
+Notifications: discounts and news
+Down Small
+You may enable Uber to send push notifications about discounts and news from Uber
+here
+.
+Third-party app access
+Down Small
+You may authorize third-party applications to access your Uber account data to enable additional features. You can review/withdraw access by third-party applications
+here
+.
+2. Device permissions
+Most mobile device platforms (such as iOS and Android) have defined certain types of device data that apps cannot access without the device owner’s permission, and these platforms have different methods for how that permission can be obtained. You should check the available settings on your devices, or check with your provider.
+3. In-app ratings pages
+After every trip, drivers and Riders can rate each other on a scale from 1 to 5. An average of the ratings you receive is displayed to your drivers.
+You can find your average rating in the Account section of the Uber app, and also access a breakdown of your average rating in Uber’s
+Privacy Center
+.
+4. Marketing and advertising choices
+Personalized marketing communications from Uber
+Down Small
+You can choose
+here
+whether Uber may personalize marketing communications (such as emails, push notifications and in-app messages) about Uber products and services.
+You may also choose
+here
+whether to receive any marketing emails or push notifications from Uber.
+Data sharing and tracking
+Down Small
+You can choose
+here
+whether Uber may share your data with third parties, or collect data regarding your visits and actions on third-party apps or websites, for purposes of personalized ads.
+Personalized ads
+Down Small
+You can choose whether Uber uses your Uber trip, order or search history to personalize the ads you see on
+Uber
+or
+Uber Eats and Postmates
+.
+Cookies and related technologies
+Down Small
+For information on how to control Uber’s use of cookies and related technologies, including for purposes of displaying personalized ads, please see our
+Cookie Notice
+.
+5. User data requests
+Uber provides a variety of ways to learn about, control, and submit questions and comments about Uber’s handling of your data. In addition to the methods indicated below, you may also submit data requests via our Privacy Inquiry Form
+here
+.
+Data access and portability
+Down Small
+Depending on where you are located, you may have the right to access your data and to portability of your data.
+Regardless of your location, you can access your data, including your profile data and trip or order history, through the Uber apps or website.
+You can also use our
+Explore Your Data
+to view a summary of certain information about your account, such as your rating, trip or order count, rewards status, and how long you’ve been using Uber.
+You can also use our
+Download Your Data
+feature to download a copy of the
+most requested data
+relating to use of Uber, including account, usage, communications, and device data.
+Changing or updating data
+Down Small
+You can edit your name, phone number, email address, payment method, and profile picture through the Settings menu in Uber’s apps.
+Deleting data
+Down Small
+You may request that Uber delete your account through Uber’s
+Privacy Center
+.
+Objections, restrictions and complaints
+Down Small
+You may request that we stop using all or some of your data, or that we limit our use of your data. This includes objecting to our use of data that is based on Uber’s legitimate interests. Uber may continue to process data after such objection or request to the extent necessary to provide our services, or required or permitted by law.
+In addition, depending on your location, you may have the right to file a complaint relating to Uber’s handling of your data with the data protection authority in your country.
+IV. Legal Information
+A. Data controllers and Data Protection Officer
+Uber Technologies, Inc. is the sole controller of the data processed by Uber when you use Uber’s services globally, except where it is a joint controller with other Uber affiliates.
+Uber Technologies, Inc. (“UTI”) is controller of the data processed by Uber when you use Uber’s services globally, except that:
+UTI and UBR Pagos Mexico, S.A. de C.V., are controllers of the data of users of Uber’s payment and e-money services in Mexico.
+UTI and Uber B.V. are together with Uber Payments BV joint controllers of the data of users of Uber’s payment and e-money services in the EEA, and with Uber Payments UK Ltd. for users of those services in the UK.
+UTI and Uber B.V. are joint controllers of the data processed in connection with all other uses of Uber’s services in the EEA, UK and Switzerland.
+You may also contact Uber's Data Protection Officer at
+uber.com/privacy-dpo
+, or by mail to Uber B.V. (Burgerweeshuispad 301, 1076 HR Amsterdam, the Netherlands), regarding issues relating to Uber's processing of your personal data and your data protection rights.
+B. Our legal bases for using your data
+Depending on where you use our services, and our purpose for using your data, Uber relies on the following legal bases for processing your data:
+Necessity to perform our contract with you
+Consent
+Uber's legitimate interests
+Legal obligation
+Data protection laws in some countries and areas, including the EEA, UK, Switzerland, Brazil and Nigeria, only allow Uber to use your data when certain circumstances defined under those laws apply. This is called having a “legal basis” for using your data. The applicability of these legal bases may depend on your location. The chart below indicates the legal bases that Uber has under those laws when they do apply, and it uses your data for the purposes described in this notice.
+Legal basis
+Description
+Data uses
+Contract
+When you set up your Uber account and/or request a ride or delivery from Uber, we are entering into a contract defined by our
+Terms and Conditions
+to provide you those services.
+This legal basis applies when we must use your data in order to provide the services you request and meet our responsibilities under that contract.
+Calculating rider/recipient prices and driver/delivery person fares
+Creating or updating your account
+Enabling services and features
+For customer support
+Enabling communications between you and your driver or delivery person
+Performing necessary operations to maintain our services
+Personalizing your account
+Processing payments
+Providing you with trip or delivery updates, generating receipts, and informing you of changes to our terms, services, or policies
+Consent
+This legal basis applies when we notify you of how we will collect and use your data, and you voluntarily agree to that use of your data (in some cases, by enabling that collection and use through a device or Uber setting).
+Where we rely on consent, you have the right to withdraw your consent at any time, in which case we will cease that collection and use of your data.
+Personalizing ads relating to products and services offered by other companies
+Processing health data, or other sensitive data, depending on the region you live in
+Legitimate interests
+This legal basis applies when Uber has a legitimate purpose for using your data (such as for purposes of safety, security, and fraud prevention and detection), its processing of data is necessary for that purpose, and the benefit of such purpose is not outweighed by risks to your privacy (such as because you would not expect Uber’s use of your data, or because it would prevent you from exercising your rights).
+Displaying ads that are targeted based on data about your current trip or delivery request
+Predicting and helping avoid pairings of users that may result in increased risk of conflict
+Preventing, detecting and combating fraud
+Verifying your account, identity or compliance with safety requirements
+Providing live support from safety experts during trips or deliveries
+Measuring the effectiveness of the marketing communications and ads
+Personalizing marketing communications and ads relating to Uber products and services, and those offered by other companies
+For non-marketing communications
+For research and development
+Legal obligation
+This legal basis applies when we are required to use your data to comply with the law.
+For legal requirements and proceedings
+C. Legal framework for data transfers
+Uber operates, and processes user data, globally. We comply with applicable legal frameworks relating to the transfer of data.
+Uber operates, and processes user data, globally. This may result in processing of your personal data in countries, including the United States, whose data protection laws may differ from those where you live or are located.
+This includes processing of your data on Uber’s servers in the United States, and transferring or enabling access to your data globally, in order to:
+Provide you services wherever you request them
+Provide you access to your information, such as trip / order history, wherever you request it
+Provide access to and responses from Uber’s customer service agents
+Respond to
+requests for information
+by governments or law enforcement, as necessary
+Uber is committed to protecting your personal data regardless of where you are located or where, or by whom, your personal data is processed. This includes implementing global measures to protect users’ data, including:
+Securing user data when in transit, including through encryption, and at rest.
+Mandating company-wide training regarding privacy and data security.
+Implementing internal policies and procedures to limit access to, and use of, users’ data.
+Limiting government and law enforcement access to user data, except where required by law; there are imminent threats to safety; or users have consented to the access. Please see Uber’s
+Government Transparency Report
+for more information regarding our practices relating to law enforcement requests.
+When we transfer user data from the EEA, UK and Switzerland, we do so on the basis of the necessity to fulfill our agreements with you, consent, adequacy decisions regarding the country of transfer (available
+here
+,
+here
+or
+here
+, and transfer mechanisms such as the
+Standard Contractual Clauses
+adopted by the European Commission (and their approved equivalents for the UK and Switzerland), and the EU-US Data Privacy Framework (“EU-US DPF”), the UK Extension to the EU-US DPF, and the Swiss-US Data Privacy Framework (“Swiss-US DPF”), as set forth by the US Department of Commerce. Such data remains subject to the GDPR or equivalents after such transfer. Users may contact Uber regarding the above, or to request copies of applicable Standard Contractual Clauses
+here
+.
+UTI has certified to the United States Department of Commerce that it adheres to (1) the EU-US Data Privacy Framework Principles regarding the processing of personal data received from EEA member countries in reliance on the EU-US DPF, and from the UK (and Gibraltar) in reliance on the UK Extension to the EU-US DPF; and (2) the Swiss-US Data Privacy Framework Principles regarding the processing of personal data received from Switzerland in reliance on the Swiss-US DPF. In the event of a conflict between this notice and the Principles mentioned above, the Principles shall govern. In the event that the EU-US DPF or the Swiss-US DPF are invalidated, Uber will transfer data that is subject to these certifications in reliance on the other data transfer mechanisms described above.
+If you live in the EEA, UK or Switzerland, please note the following:
+Scope.
+Uber’s DPF certification applies to personal data originating from the EEA, UK or Switzerland.
+Access.
+You have the right to access your personal data that is subject to Uber’s DPF certification. For information on how to exercise this right, please see
+“Choice and transparency”
+above.
+Onward transfer.
+Uber is responsible for the transfer of personal data, subject to its certification to third parties. For information regarding the parties to whom Uber may transfer personal data, please see
+“Data sharing and disclosure”
+above.
+Request from law enforcement.
+Uber is required under applicable law to share user data, including that which may be subject to Uber’s certification, pursuant to legal process or governmental request, including from law enforcement.
+Investigation and enforcement.
+Uber is subject to the investigatory and enforcement powers of the US Federal Trade Commission.
+Questions and disputes.
+In compliance with the EU-US DPF, the UK Extension to the EU-US DPF, and the Swiss-US DPF, Uber commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner’s Office (ICO) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF. You may contact Uber
+here
+with questions regarding our compliance with these Principles. You may also refer a complaint to your local data protection authority, and Uber will work with that authority to resolve that complaint. In certain circumstances, the DPF provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in Annex I to the
+DPF Principles
+.
+You can learn more about the EU-U.S. DPF and Swiss-U.S. DPF
+here
+, and view Uber’s certification, including the scope of data subject to our certification
+here
+.
+D. Updates to this Privacy Notice
+We may occasionally update this notice. If we make significant changes, we will notify you in advance of the changes through the Uber apps or through other means, such as email. We encourage you to periodically review this notice for the latest information on our privacy practices.
+Use of our services after an update constitutes consent to the updated notice to the extent permitted by law.
+Uber
+Visit Help Center
+Company
+About us
+Our offerings
+Newsroom
+Investors
+Blog
+Careers
+Products
+Ride
+Drive
+Deliver
+Eat
+Uber for Business
+Uber Freight
+Gift cards
+Uber Health
+Global citizenship
+Safety
+Sustainability
+Travel
+Reserve
+Airports
+Cities
+linkedin
+youtube
+instagram
+twitter
+Globe
+English
+Location marker
+Johannesburg and Pretoria
+©
+2025
+Uber Technologies Inc.
+Privacy
+Accessibility
+Terms
+Select your preferred language
+العربية
+български език
+বাংলা
+Catalan (Spain)
+Čeština
+Dansk
+Deutsch
+ελληνικά
+English
+Español (Internacional)
+Español (España)
+Eesti Keel
+Suomi
+Français (Canada)
+Français (France)
+עברית
+हिन्दी
+Hrvatski
+Magyar
+Italiano
+日本語
+ಕನ್ನಡ
+한국어
+Lietuvių
+मराठी
+Norsk Bokmål
+Nederlands
+Polski
+Português (Brasil)
+Português (Portugal)
+Română
+Pусский
+සිංහල
+Slovenčina
+Slovenščina
+Svenska
+Kiswahili
+தமிழ்
+తెలుగు
+Türkçe
+українська мова
+اردو
+简体中文
+香港中文版
+繁體中文
+Ride
+Drive
+Business
+Uber Eats
+About
+About us
+Our offerings
+How Uber works
+Sustainability
+Newsroom
+Investor relations
+Autonomous
+Blog
+Careers
+Help
+EN
+Select your preferred language
+العربية
+български език
+বাংলা
+Catalan (Spain)
+Čeština
+Dansk
+Deutsch
+ελληνικά
+English
+Español (Internacional)
+Español (España)
+Eesti Keel
+Suomi
+Français (Canada)
+Français (France)
+עברית
+हिन्दी
+Hrvatski
+Magyar
+Italiano
+日本語
+ಕನ್ನಡ
+한국어
+Lietuvių
+मराठी
+Norsk Bokmål
+Nederlands
+Polski
+Português (Brasil)
+Português (Portugal)
+Română
+Pусский
+සිංහල
+Slovenčina
+Slovenščina
+Svenska
+Kiswahili
+தமிழ்
+తెలుగు
+Türkçe
+українська мова
+اردو
+简体中文
+香港中文版
+繁體中文
+Ride
+Drive & deliver
+Uber Eats
+Business
+Sign in to drive & deliver
+Sign in to ride
+Sign in to order delivery with Uber Eats
+Sign in to your Uber for Business account
+Drive & deliver
+Ride
+Uber Eats
+Uber for Business
+Manage account
+Sign out
