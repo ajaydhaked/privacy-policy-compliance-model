@@ -75,7 +75,7 @@ def main():
                 
     print(f"Loaded {len(policies_list)} policies.")
     print("\n" + "="*80)
-    print("ANALYTICS 1 - Per-Attribute Breakdown (true / false / unknown) with Policy Lists")
+    print("GROUND TRUTH ANALYSIS - Per-Attribute Breakdown (true / false / unknown) with Policy Lists")
     print("="*80)
     
     for attr, vals in attr_policy_map.items():
@@ -98,7 +98,7 @@ def main():
 
     # Experiment 2: Performance Evaluation
     print("\n" + "="*80)
-    print("EXPERIMENT 2: Performance Evaluation (TP, TN, FP, FN)")
+    print("PERFORMANCE EVALUATION WITH GROUND TRUTHS - (TP, TN, FP, FN)")
     print("="*80)
     
     overall_cm = create_confusion_matrix()
