@@ -13,11 +13,11 @@
     },
     {
         "attribute_name": "consent_is_freely_given",
-        "value": "false"
+        "value": "true"
     },
     {
         "attribute_name": "consent_is_specific_to_purpose",
-        "value": "false"
+        "value": "true"
     },
     {
         "attribute_name": "consent_is_informed",

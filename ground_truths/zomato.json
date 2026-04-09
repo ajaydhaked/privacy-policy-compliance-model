@@ -21,7 +21,7 @@
     },
     {
         "attribute_name": "consent_is_informed",
-        "value": "false"
+        "value": "true"
     },
     {
         "attribute_name": "consent_is_unambiguous",
@@ -37,7 +37,7 @@
     },
     {
         "attribute_name": "easy_consent_withdrawal",
-        "value": "false"
+        "value": "unknown"
     },
     {
         "attribute_name": "purpose_of_processing",
@@ -57,7 +57,7 @@
     },
     {
         "attribute_name": "consent_notice_how_to_exercise_rights_sec13",
-        "value": "false"
+        "value": "true"
     },
     {
         "attribute_name": "consent_notice_how_to_complaint_to_board",

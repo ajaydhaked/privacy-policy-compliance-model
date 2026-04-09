@@ -107,6 +107,35 @@ class CreateAllAccessRequest:
                 access_request.set(attr["attribute_name"], attr["default"])
         return fresh_requests
 
+    def form_all_access_request_for_privacy_policy_from_inferred_attributes(self, file_path: str):
+        with open(file_path, "r", encoding="utf-8") as f:
+            inferred_attributes = json.load(f)
+        self.last_inferred_values = inferred_attributes
+
+        fresh_requests = []
+        fresh_requests.append(self._build_consent_given_access_request())
+        for access_request in fresh_requests:
+            for attr in inferred_attributes:
+                access_request.set(attr["attribute_name"], attr["inferred_value"])
+            for attr in self.dependent_attributes:
+                access_request.set(attr["attribute_name"], attr["default"])
+        return fresh_requests
+    
+    def form_all_access_request_for_privacy_policy_from_ground_truth(self, file_path: str):
+        with open(file_path, "r", encoding="utf-8") as f:
+            inferred_attributes = json.load(f)
+        self.last_inferred_values = inferred_attributes
+
+        fresh_requests = []
+        fresh_requests.append(self._build_consent_given_access_request())
+        for access_request in fresh_requests:
+            for attr in inferred_attributes:
+                access_request.set(attr["attribute_name"], attr["value"])
+            for attr in self.dependent_attributes:
+                access_request.set(attr["attribute_name"], attr["default"])
+        return fresh_requests
+            
+
 
         
 

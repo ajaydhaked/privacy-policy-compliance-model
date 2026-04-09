@@ -3,10 +3,9 @@
         "attribute_name": "offering_service_to_data_principal_within_india",
         "values": [
             "true",
-            "false",
-            "unknown"
+            "false"
         ],
-        "description": "Determine whether the privacy policy indicates that the service is offered to individuals (data principals) located in India. Mark 'true' if the policy explicitly mentions serving users in India, references Indian users, uses Indian contact addresses, accepts INR payments, mentions Indian regulations, or lists '.in' domains, or mentions any Indian language. Mark 'false' if the policy explicitly states the service is not available to individuals in India or is restricted to other geographies. Mark 'unknown' if the policy does not mention any geographic scope or there is insufficient information to determine whether Indian users are served.",
+        "description": "Determine whether the privacy policy indicates that the service is offered to individuals (data principals) located in India. Mark 'false' if the policy explicitly states that the service is available only in specific regions that do not include Indian data principals; otherwise, mark 'true'",
         "attribute_type": "normal"
     },
     {
@@ -61,7 +60,7 @@
             "false",
             "unknown"
         ],
-        "description": "Determine whether the privacy policy indicates that consent is obtained through a clear, affirmative action by the user. Mark 'true' if the policy mentions that consent is explicitly taken from the user. Mark 'false' if the policy indicates that consent is taken by default without explicit user action. Mark 'unknown' if the policy does not mention how consent is collected or the consent mechanism is not described.",
+        "description": "Determine whether the privacy policy indicates that consent is obtained through a clear, explicit, and affirmative action by the user.\nMark 'true' only if the policy specifies that users provide consent through an active opt-in mechanism, such as selecting an unchecked checkbox, clicking an “I agree” button specifically for data processing, providing written or digital authorization, or any similar action that clearly indicates agreement prior to processing.\nMark 'false' if consent is implied, assumed, or inferred from passive actions, including but not limited to:\n- visiting or using the website or service,\n- continued use of the platform,\n- providing personal data without an explicit opt-in,\n- acceptance of general terms of service or privacy policies,\n- pre-checked boxes or default settings.\nMark 'unknown' if the policy does not describe the mechanism by which consent is obtained or provides insufficient information to determine whether consent is explicit.",
         "attribute_type": "normal"
     },
     {
@@ -89,7 +88,7 @@
             "false",
             "unknown"
         ],
-        "description": "Determine whether the privacy policy indicates that withdrawing consent is as simple and easy as the process used to give consent. Mark 'true' if the policy describes a withdrawal mechanism that is equally accessible and straightforward as the consent-giving mechanism (e.g., if consent was given via a single click, withdrawal can also be done via a single click or having small activity center where customers can withdraw just by few clicks). Mark 'false' if the withdrawal process is more burdensome than the consent process (e.g., consent given online but withdrawal requires sending a physical letter, calling a helpline, or completing a multi-step verification process not required during consent). Mark 'unknown' if the policy does not describe a withdrawal mechanism or does not provide enough detail to compare the ease of giving vs. withdrawing consent.",
+        "description": "Determine whether the privacy policy indicates that withdrawing consent is as simple and easy as the process used to give consent. Mark 'true' if the policy describes a withdrawal mechanism that is equally accessible and straightforward as the consent-giving mechanism (e.g., if consent was given via a single click, withdrawal can also be done via a single click or having small activity center where customers can withdraw just by few clicks). Mark 'false' if the withdrawal process is more burdensome than the consent process (e.g., consent given online but withdrawal requires sending a email, calling a helpline, or completing a multi-step verification process not required during consent). Mark 'unknown' if the policy does not describe a withdrawal mechanism or does not provide enough detail to compare the ease of giving vs. withdrawing consent.",
         "attribute_type": "normal"
     },
     {

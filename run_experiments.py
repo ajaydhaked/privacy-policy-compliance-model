@@ -31,12 +31,10 @@ def determine_result(gt_val, inf_val):
     if gt_neg and inf_neg:
         return 'TN'
     elif not gt_neg and not inf_neg:
-        # Both are positive
-        # Check if they match exactly (useful for non-boolean positive attributes)
         if str(gt_val).lower() == str(inf_val).lower():
             return 'TP'
         else:
-            return 'FN' # Mistaken prediction class among positive classes
+            return 'FN'
     elif not gt_neg and inf_neg:
         return 'FN'
     elif gt_neg and not inf_neg:

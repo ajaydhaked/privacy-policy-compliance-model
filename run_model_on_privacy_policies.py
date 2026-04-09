@@ -12,6 +12,7 @@ ALL_ATTRIBUTES_FILE_PATH = "all_attributes_list.json"
 ATTRIBUTE_INFERENCE_PROMPT_TEMPLATE_PATH = "prompts/attribute_inference_llm_prompt.txt"
 PRIVACY_POLICY_FOLDER = "privacy_policies"
 INFERRED_VALUES_FOLDER = "inferred_values"
+GROUND_TRUTH_FOLDER = "ground_truths"
 LOGS_FOLDER = "logs"
 
 if not os.path.exists(LOGS_FOLDER):
@@ -57,7 +58,7 @@ def _run():
     policy_summary = []   
 
     for pol_idx, privacy_policy_file in enumerate(privacy_policies, start=1):
-        company_name       = privacy_policy_file.split(".")[0]
+        company_name        = privacy_policy_file.split(".")[0]
         privacy_policy_path = os.path.join(PRIVACY_POLICY_FOLDER, privacy_policy_file)
         privacy_policy_text = read_file(privacy_policy_path)
         log_file_name       = (
@@ -72,8 +73,16 @@ def _run():
             privacy_policy_text,
             log_file_path=log_file_name
         )
-
         save_inferred_values(create_all_access_request.last_inferred_values, company_name)
+
+        # # all_access_requests = create_all_access_request.form_all_access_request_for_privacy_policy_from_inferred_attributes(
+        # #     file_path=f"{INFERRED_VALUES_FOLDER}/{company_name}.json"
+        # # )
+
+        # all_access_requests = create_all_access_request.form_all_access_request_for_privacy_policy_from_ground_truth(
+        #     file_path=f"{GROUND_TRUTH_FOLDER}/{company_name}.json"
+        # )
+
 
         total_requests     = len(all_access_requests)
         compliant_requests = 0
@@ -116,7 +125,6 @@ def _run():
         print(f"\n   Result  : {verdict_icon}")
         print()
 
-        time.sleep(30)
 
     compliant_policies     = [p for p in policy_summary if p["compliant"]]
     non_compliant_policies = [p for p in policy_summary if not p["compliant"]]

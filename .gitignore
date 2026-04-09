@@ -2,6 +2,6 @@ logs/
 .env
 __pycache__/
 /*/__pycache__
-inferred_values/
+inferred_values*/
 experiments/
 src/__pycache__

@@ -37,7 +37,7 @@
     },
     {
         "attribute_name": "easy_consent_withdrawal",
-        "value": "unknown"
+        "value": "true"
     },
     {
         "attribute_name": "purpose_of_processing",

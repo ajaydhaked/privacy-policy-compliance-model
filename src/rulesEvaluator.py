@@ -208,8 +208,8 @@ class RulesEvaluator:
             and purpose_of_processing
             and rights_sec6_4
             and rights_sec13
-            and complaint_to_board
-            and language_options_valid
+            # and complaint_to_board
+            # and language_options_valid
         )
  
         if success:
@@ -271,8 +271,8 @@ class RulesEvaluator:
             and specific_to_purpose
             and informed
             and unambiguous
-            and language_options_valid
-            # and dpo_contact
+            # and language_options_valid
+            and dpo_contact
             and withdrawal_option
             and notice_wellformed
         )

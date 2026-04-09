@@ -25,7 +25,7 @@
     },
     {
         "attribute_name": "consent_is_unambiguous",
-        "value": "false"
+        "value": "true"
     },
     {
         "attribute_name": "consent_request_language_all_eighth_schedule",

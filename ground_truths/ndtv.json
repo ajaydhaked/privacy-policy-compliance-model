@@ -21,7 +21,7 @@
     },
     {
         "attribute_name": "consent_is_informed",
-        "value": "false"
+        "value": "true"
     },
     {
         "attribute_name": "consent_is_unambiguous",
