@@ -34,7 +34,7 @@ def determine_result(gt_val, inf_val):
         if str(gt_val).lower() == str(inf_val).lower():
             return 'TP'
         else:
-            return 'FN'
+            return 'FN'  # only for purpose of processing
     elif not gt_neg and inf_neg:
         return 'FN'
     elif gt_neg and not inf_neg:
